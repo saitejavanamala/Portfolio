@@ -63,3 +63,20 @@ library(lubridate)
 # Coerce date columns into Date objects
 sales5[, date_cols] <- lapply(sales5[, date_cols], ymd)
 
+# Find date columns (don't change)
+date_cols <- str_detect(names(sales5), "dt")
+
+# Create logical vectors indicating missing values (don't change)
+missing <- lapply(sales5[, date_cols], is.na)
+
+# Create a numerical vector that counts missing values: num_missing
+num_missing <- sapply(missing, sum)
+
+# Print num_missing
+num_missing
+
+# Combine the venue_city and venue_state columns
+sales6 <- unite(sales5, venue_city, venue_state, col = venue_city_state, sep = ", ")
+
+# View the head of sales6
+head(sales6)
