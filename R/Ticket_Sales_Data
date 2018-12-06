@@ -51,4 +51,15 @@ sales3$sales_ord_create_dttm[issues]
 # Print a well-behaved value of sales_ord_create_dttm
 sales3$sales_ord_create_dttm[2517]
 
+# Load stringr
+library(stringr)
+
+# Find columns of sales5 containing "dt": date_cols
+date_cols <- str_detect(names(sales5), "dt")
+
+# Load lubridate
+library(lubridate)
+
+# Coerce date columns into Date objects
+sales5[, date_cols] <- lapply(sales5[, date_cols], ymd)
 
