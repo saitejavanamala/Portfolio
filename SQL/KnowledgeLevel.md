@@ -1,4 +1,4 @@
-### Concepts I am familiar with
+### Concepts I am familiar with:
 1. Relational Databases
 2. Schemas and Object Names
 3. SQL Statement Types
