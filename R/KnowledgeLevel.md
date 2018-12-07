@@ -14,7 +14,7 @@
 
 ### List of Datasets I am working on:
 
-#### Basics: Vectors, Matrices, Functions, Importing
+##### Basics: Vectors, Matrices, Functions, Importing
 
 1. poker
 2. starwars
@@ -28,7 +28,7 @@
 10. potatoes
 11. urbanpop
 
-#### Data Wrangling, Data Manipulation, Data Visualization 
+##### Data Wrangling, Data Manipulation, Data Visualization 
 
 1. iris
 2. mtcars
