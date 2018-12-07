@@ -1,6 +1,20 @@
-## List of Datasets I am working on:
+### Here is a list of R packages I'm familiar with:
 
-# Basics: Vectors, Matrices, Functions, Importing
+1. tidyr
+2. dplyr
+3. purrr
+4. ggplot2
+5. lubridate
+6. stringr
+7. readr
+8. caret
+9. shiny
+10. knitr
+
+
+### List of Datasets I am working on:
+
+#### Basics: Vectors, Matrices, Functions, Importing
 
 1. poker
 2. starwars
@@ -14,7 +28,7 @@
 10. potatoes
 11. urbanpop
 
-# Data Wrangling, Data Manipulation, Data Visualization 
+#### Data Wrangling, Data Manipulation, Data Visualization 
 
 1. iris
 2. mtcars
@@ -33,3 +47,5 @@
 15. titanic
 16. global super stores
 17. piping tech
+
+
