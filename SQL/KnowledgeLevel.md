@@ -5,7 +5,10 @@
 4. The SELECT Statement (order of execution by engine, Aliases)
 5. Data types (Knowledge of different data types, Implicit and Explicit Conversions: CAST, CONVERT, STR)
 6. NULLS (IS NULL, ISNULL, NULLIF, COALESCE, Two variants of CASE Statements)
-
+7. Removing Duplicates using DISTINCT
+8. ORDER BY, TOP with ORDER BY
+9. Paging through OFFSET and FETCH with ORDER BY clause.
+10. 
 
 ### List of Datasets I worked on in SQL:
 
