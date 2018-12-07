@@ -8,7 +8,6 @@
 7. Removing Duplicates using DISTINCT
 8. ORDER BY, TOP with ORDER BY
 9. Paging through OFFSET and FETCH with ORDER BY clause.
-10. 
 
 ### List of Datasets I worked on in SQL:
 
