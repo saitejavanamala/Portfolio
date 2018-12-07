@@ -4,14 +4,25 @@ I am using github to display my portfolio.
 
 ### Skillset:
 
-#### 1. Data Analysis: 
-Advanced Excel, SQL, R Programming (tidyr, dplyr, ggplot2), Python (numPy, pandas, matplotlib), Tableau, Spotfire, Power BI, 
-MS Access, Minitab, VBA Programming
+1.	SQL
+2.	[R Programming] (https://github.com/saitejavanamala/Portfolio/tree/master/R)
+3.	Microsoft Advanced Excel
+4.	Microsoft PowerPoint
+5.	VBA Programming
+6.	Microsoft Access 
+7.	Power BI
+8.	Tableau
+9.	Spotfire
+10.	Project Management
+11.	Python
+12.	Minitab 
+13.	Lean Six Sigma
+14.	Microsoft Visio
+15.	Microsoft Project
+16.	Adobe Illustrator
+17.	Adobe InDesign
+18.	Google Sheets
+19.	Google Slides
 
-#### 2. Project Management:
-Lean Six Sigma, Microsoft PowerPoint, Microsoft Project,  Minitab Companion, Microsoft Visio
-
-#### 3. Supply Chain & Manufacturing:
-ERP, AutoCAD
 
 
