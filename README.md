@@ -9,7 +9,7 @@ Advanced Excel, SQL, R Programming (tidyr, dplyr, ggplot2), Python (numPy, panda
 MS Access, Minitab, VBA Programming
 
 #### 2. Project Management:
-Lean Six Sigma, Microsoft PowerPoint, Microsoft Project,  Minitab Companion, Microsoft Visio, 
+Lean Six Sigma, Microsoft PowerPoint, Microsoft Project,  Minitab Companion, Microsoft Visio
 
 #### 3. Supply Chain & Manufacturing:
 ERP, AutoCAD
