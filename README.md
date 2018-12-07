@@ -5,7 +5,7 @@ I am using github to display my portfolio.
 ### Skillset:
 
 1.	SQL
-2.	[R Programming] (http://google.com)
+2.  [R Programming](https://github.com/saitejavanamala/Portfolio/blob/master/R/KnowledgeLevel.md)
 3.	Microsoft Advanced Excel
 4.	Microsoft PowerPoint
 5.	VBA Programming
