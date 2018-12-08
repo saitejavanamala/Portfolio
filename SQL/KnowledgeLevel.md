@@ -42,7 +42,7 @@ AND Job  = (SELECT JOb FROM Jobs.CompleteList
   d. Aggregate Functions
 19. Subqueries 
   a. Scalar subquery, Multi-valued subquery
-  b. Self-contained subquery, Coorelated subquery
+  b. Self-contained subquery, Corelated subquery
 
 ### Places I learnt SQL from:
 1. Microsoft: DAT201x Querying Data with Transact-SQL (edx.com)
