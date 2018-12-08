@@ -25,7 +25,8 @@ WHERE PartCategory = "TS 2x2x1/4x24" A 500 GR. B" AND PartComments = "%holes" AN
 
 INTERSECT
 
-SELECT Job + '-' + Item  FROM Jobs.CompleteList 
+SELECT Job + '-' + Item  
+FROM Jobs.CompleteList 
 WHERE PartCategory = "W 6 x 15 x 78" AND 
 PartComments IS NULL AND FinalFinish = "PAINT 2");
       
