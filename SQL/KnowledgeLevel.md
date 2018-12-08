@@ -17,13 +17,13 @@ AND Job  = (SELECT JOb FROM Jobs.CompleteList
 ```
 
 ```sql
----The same result could be achieved with a UNION ALL
+---The same result could be achieved with INTERSECT
 
 SELECT Job + '-' + Item AS Possible Match 
 FROM Jobs.CompleteList 
 WHERE PartCategory = "TS 2x2x1/4x24" A 500 GR. B" AND PartComments = "%holes" AND FinalFinish = "PAINT 2" 
 
-UNION ALL
+INTERSECT
 
 SELECT Job + '-' + Item  FROM Jobs.CompleteList 
 WHERE PartCategory = "W 6 x 15 x 78" AND 
