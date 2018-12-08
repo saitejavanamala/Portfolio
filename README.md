@@ -21,8 +21,10 @@ I am using github to display my portfolio.
 15.	Microsoft Project
 16.	Adobe Illustrator
 17.	Adobe InDesign
-18.	Google Sheets
-19.	Google Slides
 
+### Projects:
 
-
+1. Make it Happen! (Dep: Shipping, Piping Technology & Products)
+2. APICS Supply Chain Case Competition 2018
+3. MHI Facilities Planning 2017
+4. Make it Happen 2! (Dep: Rod Assembly, Piping Technology & Products)
