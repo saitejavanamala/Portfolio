@@ -1,3 +1,11 @@
+### List of Datasets I worked on in SQL:
+1. AdventureworksLT2014
+2. Piping Technology & Products (Multi-valued subquery)
+
+### Some queries I've written:
+
+
+
 ### Concepts I am familiar with:
 1. Relational Databases
 2. Schemas and Object Names
@@ -25,9 +33,7 @@
   a. Scalar subquery, Multi-valued subquery
   b. Self-contained subquery, Coorelated subquery
 
-
-### List of Datasets I worked on in SQL:
-
-1. AdventureworksLT2014
-2. Piping Tech (Multi-valued subquery)
-3. Employees 
+### Places I learnt SQL from:
+1. Microsoft: DAT201x Querying Data with Transact-SQL (edx.com)
+2. Querying with Transact-SQL (datacamp.com)
+3. Fundamentals of SQL (Sololearn)
