@@ -17,7 +17,7 @@ AND Job  = (SELECT JOb FROM Jobs.CompleteList
 ```
 
 ```sql
----Create a multi-valued subquery
+---The same result could be achieved with a UNION ALL
 
 SELECT Job + '-' + Item AS Possible Match 
 FROM Jobs.CompleteList 
