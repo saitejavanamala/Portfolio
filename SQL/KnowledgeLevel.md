@@ -4,6 +4,17 @@
 
 ### Some queries I've written:
 
+```sql
+---Create a multi-valued subquery
+
+SELECT Job + '-' + Item AS Possible Match 
+FROM Jobs.CompleteList 
+WHERE PartCategory = "TS 2x2x1/4x24" A 500 GR. B" AND PartComments = "%holes" AND FinalFinish = "PAINT 2" 
+AND Job  = (SELECT JOb FROM Jobs.CompleteList 
+	    WHERE PartCategory = "W 6 x 15 x 78" AND 
+	    PartComments IS NULL AND FinalFinish = "PAINT 2");
+      
+```
 
 
 ### Concepts I am familiar with:
