@@ -21,11 +21,9 @@
   b. Logical Functions
   c. Window Functions
   d. Aggregate Functions
-
-
-Subqueries 
-  Scalar subquery, Multi-valued subquery
-  Self-contained subquery, Coorelated subquery
+19. Subqueries 
+  a. Scalar subquery, Multi-valued subquery
+  b. Self-contained subquery, Coorelated subquery
 
 
 ### List of Datasets I worked on in SQL:
