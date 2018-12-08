@@ -1,3 +1,4 @@
+``` R
 # Load readxl
 library(readxl)
 
@@ -71,3 +72,4 @@ ggplot(mbta_all, aes(x = month, y = thou_riders, col = mode)) + geom_point() +
   scale_x_discrete(name = "Month", breaks = c(200701, 200801, 200901, 201001, 201101)) +  
   scale_y_continuous(name = "Avg Weekday Ridership (thousands)")
   
+```
