@@ -23,8 +23,8 @@ High
 
 Medium
 
-1.	VBA Programming
-2.	Microsoft Access 
+1. Microsoft Access 
+2. VBA Programming
 4.	Spotfire
 2.	Minitab 
 
