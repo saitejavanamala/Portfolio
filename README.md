@@ -19,18 +19,19 @@ High
 3.	Microsoft Advanced Excel
 4.	Microsoft PowerPoint
 5.  Tableau
+6.	Lean Six Sigma
 
 Medium
 
 1.	VBA Programming
 2.	Microsoft Access 
-3.	Power BI
 4.	Spotfire
+2.	Minitab 
+
 
 Low
 1.	Python
-2.	Minitab 
-3.	Lean Six Sigma
+3.	Power BI
 4.	Microsoft Visio
 14.	Microsoft Project
 15.	Adobe Illustrator
