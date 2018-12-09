@@ -27,7 +27,7 @@ Medium
 2. VBA Programming
 4.	Spotfire
 2.	Minitab 
-
+17. Companion by Minitab
 
 Low
 1.	Python
@@ -36,7 +36,6 @@ Low
 14.	Microsoft Project
 15.	Adobe Illustrator
 16.	Adobe InDesign
-17. Companion by Minitab
 
 ### Projects:
 
