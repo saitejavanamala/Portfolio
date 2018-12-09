@@ -7,6 +7,12 @@
 >3. Project Management
 
 ### Skillset:
+1. Piping Technology and Products 
+2. Amazon 
+3. D.S Veshala Engineering Services
+
+
+### Skillset:
 
 1.	[SQL](https://github.com/saitejavanamala/Portfolio/blob/master/SQL/KnowledgeLevel.md)
 2.  [R Programming](https://github.com/saitejavanamala/Portfolio/blob/master/R/KnowledgeLevel.md)
