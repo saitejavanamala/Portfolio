@@ -2,9 +2,9 @@
 ##### *Portfolio*
 > Hello. I am an Industrial Engineer. I indulge myself in these three areas:
 >
->**1. Data Analysis and Visualization
+>1. Data Analysis and Visualization
 >2. Lean Six Sigma
->3. Project Management**
+>3. Project Management
 
 ### Experience:
 1. Industrial Engineer - Piping Technology and Products 
