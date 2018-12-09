@@ -7,9 +7,9 @@
 >3. Project Management
 
 ### Experience:
-1. Industrial Engineer - Piping Technology and Products 
+3. Industrial Engineer - Piping Technology and Products 
 2. Transportaion Specialist - Amazon 
-3. Industrial Engineer Intern - D.S Veshala Engineering Services
+1. Industrial Engineer Intern - D.S Veshala Engineering Services
 
 
 ### Skillset:
