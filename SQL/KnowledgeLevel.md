@@ -59,7 +59,23 @@ PartComments IS NULL AND FinalFinish = "PAINT 2";
   a. Scalar subquery, Multi-valued subquery
   b. Self-contained subquery, Correlated subquery
 20. APPLY operator
-21. Table Expressions
+
+* Table Expressions
+* Views
+* Temporary Tables
+* Table Variables
+* Table Valued Functions
+* Derived Tables
+* Common Table Expressions
+
+Grouping Sets : GROUP BY, GROUPING SETS, ROLLUP, CUBE, GROUPING_ID 
+Pivoting Data: Pivot, Unpivot
+
+
+
+
+
+
 
 ### Places I learnt SQL from:
 1. Microsoft: DAT201x Querying Data with Transact-SQL (edx.com)
