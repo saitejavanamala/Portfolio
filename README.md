@@ -1,6 +1,10 @@
 # Sai Teja Vanamala
 ##### *Portfolio*
-> Hello. I am Sai Teja Vanamala and I am an Industrial Engineer. Passionate about programming, data analytics, data-visualizations and design! I am using github to display my portfolio. 
+> Hello. I am Sai Teja Vanamala and I am an Industrial Engineer. I indulge myself in these three areas:
+
+1. Data Analysis and Visualization
+2. Lean Six Sigma
+3. Project Management
 
 ### Skillset:
 
