@@ -34,7 +34,7 @@
 
 ### Projects:
 
-1. Make it Happen! (Dep: Shipping, Piping Technology & Products)
+1. Make it Happen! (Dept: Shipping, Piping Technology & Products)
 2. APICS Supply Chain Case Competition 2018
 3. MHI Facilities Planning 2017
-4. Make it Happen 2! (Dep: Rod Assembly, Piping Technology & Products)
+4. Make it Happen 2! (Dept: Rod Assembly, Piping Technology & Products)
