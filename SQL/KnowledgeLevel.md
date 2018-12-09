@@ -60,7 +60,7 @@ PartComments IS NULL AND FinalFinish = "PAINT 2";
   b. Self-contained subquery, Correlated subquery
 20. APPLY operator
 
-* Table Expressions
+21. Table Expressions
 * Views
 * Temporary Tables
 * Table Variables
