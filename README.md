@@ -13,16 +13,20 @@
 
 
 ### Skillset:
-
+High
 1.	[SQL](https://github.com/saitejavanamala/Portfolio/blob/master/SQL/KnowledgeLevel.md)
 2.  [R Programming](https://github.com/saitejavanamala/Portfolio/blob/master/R/KnowledgeLevel.md)
 3.	Microsoft Advanced Excel
 4.	Microsoft PowerPoint
+5.  Tableau
+
+Medium
 5.	VBA Programming
 6.	Microsoft Access 
 7.	Power BI
-8.	Tableau
 9.	Spotfire
+
+Low
 10.	Python
 11.	Minitab 
 12.	Lean Six Sigma
