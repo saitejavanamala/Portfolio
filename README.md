@@ -21,16 +21,17 @@ High
 5.  Tableau
 
 Medium
-5.	VBA Programming
-6.	Microsoft Access 
-7.	Power BI
-9.	Spotfire
+
+1.	VBA Programming
+2.	Microsoft Access 
+3.	Power BI
+4.	Spotfire
 
 Low
-10.	Python
-11.	Minitab 
-12.	Lean Six Sigma
-13.	Microsoft Visio
+1.	Python
+2.	Minitab 
+3.	Lean Six Sigma
+4.	Microsoft Visio
 14.	Microsoft Project
 15.	Adobe Illustrator
 16.	Adobe InDesign
