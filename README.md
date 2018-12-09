@@ -6,10 +6,10 @@
 >2. Lean Six Sigma
 >3. Project Management
 
-### Skillset:
-1. Piping Technology and Products 
-2. Amazon 
-3. D.S Veshala Engineering Services
+### Experience:
+1. Industrial Engineer - Piping Technology and Products 
+2. Transportaion Specialist - Amazon 
+3. Industrial Engineer Intern - D.S Veshala Engineering Services
 
 
 ### Skillset:
