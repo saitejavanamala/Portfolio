@@ -13,14 +13,13 @@
 7.	Power BI
 8.	Tableau
 9.	Spotfire
-10.	Project Management
-11.	Python
-12.	Minitab 
-13.	Lean Six Sigma
-14.	Microsoft Visio
-15.	Microsoft Project
-16.	Adobe Illustrator
-17.	Adobe InDesign
+10.	Python
+11.	Minitab 
+12.	Lean Six Sigma
+13.	Microsoft Visio
+14.	Microsoft Project
+15.	Adobe Illustrator
+16.	Adobe InDesign
 
 ### Projects:
 
