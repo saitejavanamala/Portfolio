@@ -57,7 +57,9 @@ PartComments IS NULL AND FinalFinish = "PAINT 2";
   d. Aggregate Functions
 19. Subqueries 
   a. Scalar subquery, Multi-valued subquery
-  b. Self-contained subquery, Corelated subquery
+  b. Self-contained subquery, Correlated subquery
+20. APPLY operator
+21. Table Expressions
 
 ### Places I learnt SQL from:
 1. Microsoft: DAT201x Querying Data with Transact-SQL (edx.com)
