@@ -20,6 +20,7 @@
 14.	Microsoft Project
 15.	Adobe Illustrator
 16.	Adobe InDesign
+17. Minitab Companion
 
 ### Projects:
 
