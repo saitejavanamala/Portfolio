@@ -27,7 +27,7 @@ Show all dependent cells: Ctrl Shift )
 Show all precedent cells: Ctrl Shift (
 
 **Referencing, Copying Column Formulas**
-4. Ctrl + . for moving around the corners of selected cells
+4. Ctrl + . for moving around the corners of selected cells.
 5. Type F4 or dollar sign for absolute referencing
 
 6. **Copying Formulas to Values Only**
