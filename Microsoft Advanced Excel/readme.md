@@ -61,6 +61,6 @@ By grouping sheets that have the same layout (colorado, Utah example)
 
 13. **Inserting and Function Description dialogue box using formula bar**
 
-14. 
+14. **Autosum/Average/Count Columns/Rows using Autosum button in Home tab or Formula tab. Or Select Cell and Alt =
 
-
+15  **Using Relative + Mixed References (Furniture Allocation example)
