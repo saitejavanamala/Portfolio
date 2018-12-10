@@ -16,7 +16,7 @@
 High
 1.	[SQL](https://github.com/saitejavanamala/Portfolio/blob/master/SQL/KnowledgeLevel.md)
 2.  [R Programming](https://github.com/saitejavanamala/Portfolio/blob/master/R/KnowledgeLevel.md)
-3.	[Microsoft Advanced Excel](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Advanced%20Excel/readme)
+3.	[Microsoft Advanced Excel](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Advanced%20Excel/readme.md)
 4.	[Microsoft PowerPoint](https://github.com/saitejavanamala/Portfolio/blob/master/PowerPoint/KnowledgeLevel.md)
 5.  Tableau
 6.	Lean Six Sigma
