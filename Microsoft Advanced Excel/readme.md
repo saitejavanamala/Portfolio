@@ -72,3 +72,11 @@ By grouping sheets that have the same layout (colorado, Utah example)
 18. **IF logical test syntax**
 
 19. **Nested IF in [value if false]**
+
+20. **Use of AND/OR with IF statements**
+
+21. **Using IFS for conducting various logical tests at the same time (like in IF statement)**
+
+22. **Looking up information using VLOOKUP**
+
+23. **Looking up information using HLOOKUP**
