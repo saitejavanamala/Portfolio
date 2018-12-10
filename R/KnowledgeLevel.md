@@ -1,3 +1,12 @@
+#### A glimpse of things I can do in R:
+
+
+
+
+
+
+
+
 ### Here is a list of R packages I'm familiar with:
 
 1. tidyr
