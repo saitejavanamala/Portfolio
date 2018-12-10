@@ -77,6 +77,72 @@ By grouping sheets that have the same layout (colorado, Utah example)
 
 21. **Using IFS for conducting various logical tests at the same time (like in IF statement)**
 
-22. **Looking up information using VLOOKUP**
+22. **Looking up information using VLOOKUP (Aproximate and exact match)**
 
-23. **Looking up information using HLOOKUP**
+23. **Looking up information using HLOOKUP (Aproximate and exact match)**
+
+24. **Nested VLOOKUP for double lookup (State, Dependants example)
+
+25. **CHOOSE Function**
+
+26. **SWITCH Function for formula embedded selection**
+
+27. **Locating data with MATCH function**
+
+28. **Retrieving information by Location using INDEX**
+
+29. **Using INDEX and MATCH**
+
+30. **Power Functions:
+
+31. COUNT IF, SUM IF, AVERAGE IF
+
+32. COUNTIF with wild card (Full-time, hourly example)
+
+33. COUNTIFS, SVERAGEIFS, MAXIFS, MINIFS
+
+34. USING Subtotal function to prevent double counting
+
+35. RANK, RANK.EQ, RANK.
+
+36. LARGE AND SMALL Functions. nth largest or smallest
+
+37. COUNTBLANK
+
+38. COUNT, COUNTA
+
+39. **Math Functions**
+
+40. ROUNDUP, ROUND, ROUNDDOWN
+
+41. MROUND, CEILING, FLOOR
+
+42. INT & TRUNC
+
+43. MOD & MOD with Conditional Formatting
+
+44. RAND & RANDBETWEEN
+
+45. CONVERT
+
+46. AGGREGATE
+
+47. **Date and Time Functions** Capabilities
+
+48. DATE, YEAR, MONTH, DAY, HOUR, MINUTE, SECOND Functions
+
+49. TODAY and NOW Functions
+
+50. WEEKDAY
+
+51. NETWORKDAYS
+
+52. WORKDAY
+
+53. DATEDIF
+
+54. EDATE & EO Month
+
+
+
+
