@@ -3,20 +3,25 @@
 I have used Excel for an immense amount of time in the last six to seven years: 
 In school, at work and also while taking more than 20 courses on Linkedin. 
 
-I can play with various Data Management features such as Sorting, Filtering, Splitting into Multiple Columns, Removing Duplicates, Data Validation and Flash Fill.
-I can create and manipulate pivot tables, grouping by date, by other factors, insert slicers, and also work with pivot charts. 
-
-I can use IF functions, VLOOKUP, INDEX and Match, COUNT IF
-I can use Conditional Formatting rules. 
-I can create and run macros.
-I can use Data Analysis features such as Goal Seek, using Solver, Scenario Manager. 
+##### Data Management, Data Modeling:
+I can play with various Data Management features such as Sorting, Filtering, Splitting into Multiple Columns, Removing Duplicates, Data Validation and Flash Fill. I can create and manipulate pivot tables, grouping by date, by other factors, insert slicers, and also work with pivot charts. I can use Data Analysis features such as Goal Seek, using Solver, Scenario Manager. 
 I have a good understanding of Business Modeling tools such as Realtionships, Power Query.
 
 
+##### Advanced Formulas and Functions:
+Viewing, Auditing, Referencing, Debugging Formulas to  
+
+##### Formatting:
+I can use Conditional Formatting rules. 
+
+##### Macros
+I can create and run macros.
 
 
 
-#### Advanced Formulas and Functions: 
+
+
+##### Advanced Formulas and Functions: 
 1. **Displaying and Higlighting Formulas**
 View Formulas using Ctrl + ~, Find and Select drop down, Show Formulas in Formulas tab in ribbon. 
 2. View Constants by Find and Select > Go to Special > Check Constants > Select only numbers
