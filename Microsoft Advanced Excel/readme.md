@@ -8,9 +8,9 @@ I can create and manipulate pivot tables, grouping by date, by other factors, in
 
 I can use IF functions, VLOOKUP, INDEX and Match, COUNT IF
 I can use Conditional Formatting rules. 
-I can create and run macros
-I have a good understanding of Data Analysis features such as Goal Seek, using Solver, Scenario Manager. 
-I can use Power Query.
+I can create and run macros.
+I can use Data Analysis features such as Goal Seek, using Solver, Scenario Manager. 
+I have a good understanding of Business Modeling tools such as Realtionships, Power Query.
 
 
 
