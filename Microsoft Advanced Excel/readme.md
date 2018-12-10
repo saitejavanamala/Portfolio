@@ -55,4 +55,12 @@ Formulas Tab > Name Manager Function.
 10. **Tabulating Data from Multiple Sheets**
 By grouping sheets that have the same layout (colorado, Utah example)
 
+11. **Formula tab for locating Functions, Tell me more for help**
+
+12. **Caret Symbol for exponentiation and use of brackets for hierarchy**
+
+13. **Inserting and Function Description dialogue box using formula bar**
+
+14. 
+
 
