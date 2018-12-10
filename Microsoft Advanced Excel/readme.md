@@ -9,9 +9,9 @@ I can play with various Data Management features such as Sorting, Filtering, Spl
 I have a good understanding of Business Modeling tools such as Realtionships, Power Query.
 
 #### 2. Advanced Formulas & Functions:
-Viewing, Auditing, Referencing, Debugging Formulas
-Autosum, IF, Nested IF, IFS, VLOOKUP, HLOOKUP, INDEX, MATCH, CHOOSE, SWITCH
-Power functions, math functions, date and time functions, string functions.
+* Viewing, Auditing, Referencing, Debugging Formulas
+* Autosum, IF, Nested IF, IFS, VLOOKUP, HLOOKUP, INDEX, MATCH, CHOOSE, SWITCH
+* Power functions, math functions, date and time functions, string functions.
 
 #### 3. Formatting & Charting:
 I can use Conditional Formatting rules. 
