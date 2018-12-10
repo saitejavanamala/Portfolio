@@ -20,6 +20,54 @@ I can use Conditional Formatting rules.
 I can create and run macros.
 
 
+### 1 Data Management & Data Modeling:
+
+1. Convert list to tables
+
+2. Use formulas in tables
+
+3. Sorting 
+
+4. Multiple-key sorting
+
+5. Sorting based on Custom Lists (Advanced > Edit Custom Lists)
+
+6. Sorting Options (Sort left to right: columns)
+
+7. Sorting data in random order
+
+8. Single and Multiple-level subtotals
+
+9. Expanding and Collpasing with grouping and outlining symbols
+
+10. Filtering
+
+* Text Filter
+* Numeric Filters
+* Date Filters
+
+11. Top Ten Filter
+
+12. Creating Custom filters
+
+13. Limitations of Standard Filtering
+
+14. Filtering interactively using Slicers and Tables
+
+15. Advanced Filter for Complex OR criteria
+
+16. Advanced Filter for specialised filters
+
+17. Advanced Filter for creating unique lists from repeating
+
+18. Removing duplicates
+
+19. Specialised array formula to identify duplicated data
+
+20. Array formula to count unique items 
+
+21. DSUM, DAVERAGE, DMAX
+
 
 ### 2 Advanced Formulas and Functions: 
 1. **Displaying and Higlighting Formulas**
