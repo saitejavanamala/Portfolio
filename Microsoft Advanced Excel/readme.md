@@ -2,23 +2,22 @@
 
 I have used Excel for an immense amount of time in the last six to seven years: 
 In school, at work and also while taking more than 20 courses on Linkedin. I am familiar with more than 200 features in Excel. 
-The majority of them would be:There are four major areas which I can categorize my expertise into:
+There are four major areas which I can categorize my expertise into:
 
 ##### 1. Data Management & Data Modeling:
 I can play with various Data Management features such as Sorting, Filtering, Splitting into Multiple Columns, Removing Duplicates, Data Validation and Flash Fill. I can create and manipulate pivot tables, grouping by date, by other factors, insert slicers, and also work with pivot charts. I can use Data Analysis features such as Goal Seek, using Solver, Scenario Manager. 
 I have a good understanding of Business Modeling tools such as Realtionships, Power Query.
 
-
 ##### 2. Advanced Formulas & Functions:
-Viewing, Auditing, Referencing, Debugging Formulas to  
+Viewing, Auditing, Referencing, Debugging Formulas
+Autosum, IF, Nested IF, IFS, VLOOKUP, HLOOKUP, INDEX, MATCH, CHOOSE, SWITCH
+Power functions, math functions, date and time functions, string functions.
 
 ##### 3. Formatting & Charting:
 I can use Conditional Formatting rules. 
 
 ##### 4. Macros
 I can create and run macros.
-
-
 
 
 
@@ -81,7 +80,7 @@ By grouping sheets that have the same layout (colorado, Utah example)
 
 23. **Looking up information using HLOOKUP (Aproximate and exact match)**
 
-24. **Nested VLOOKUP for double lookup (State, Dependants example)
+24. **Nested VLOOKUP for double lookup (State, Dependants example)**
 
 25. **CHOOSE Function**
 
@@ -93,7 +92,7 @@ By grouping sheets that have the same layout (colorado, Utah example)
 
 29. **Using INDEX and MATCH**
 
-30. **Power Functions:
+30. **Power Functions:**
 
 31. COUNT IF, SUM IF, AVERAGE IF
 
