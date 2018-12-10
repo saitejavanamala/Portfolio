@@ -46,4 +46,7 @@ Drop Down cell address and edit.
 Press F3 for range names. 
 Formulas Tab > Name Manager Function.
 
+10. **Tabulating Data from Multiple Sheets**
+By grouping sheets that have the same layout (colorado, Utah example)
+
 
