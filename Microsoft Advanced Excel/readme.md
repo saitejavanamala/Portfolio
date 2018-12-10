@@ -12,7 +12,7 @@ I have a good understanding of Business Modeling tools such as Realtionships, Po
 ##### 2. Advanced Formulas and Functions:
 Viewing, Auditing, Referencing, Debugging Formulas to  
 
-##### 3. Formatting:
+##### 3. Formatting & Charting:
 I can use Conditional Formatting rules. 
 
 ##### 4. Macros
