@@ -17,31 +17,31 @@ I have a good understanding of Business Modeling tools such as Realtionships, Po
 
 
 #### Advanced Formulas and Functions: 
-**Displaying and Higlighting Formulas**
+1. **Displaying and Higlighting Formulas**
 View Formulas using Ctrl + ~, Find and Select drop down, Show Formulas in Formulas tab in ribbon. 
-View Constants by Find and Select > Go to Special > Check Constants > Select only numbers
+2. View Constants by Find and Select > Go to Special > Check Constants > Select only numbers
 
-**Formula Auditing Tools**
+3. **Formula Auditing Tools**
 Trace Precedents, Trace Dependents
 Show all dependent cells: Ctrl Shift )
 Show all precedent cells: Ctrl Shift (
 
 **Referencing, Copying Column Formulas**
-Ctrl + . for moving around the corners of selected cells
-Type F4 or dollar sign for absolute referencing
+4. Ctrl + . for moving around the corners of selected cells
+5. Type F4 or dollar sign for absolute referencing
 
-**Copying Formulas to Values Only**
+6. **Copying Formulas to Values Only**
 Can Copy and use paste special, values only
 Copy and Drag it to a new column
 Copy and drag to the side, then paste as Values only in the same original column
 
-**Updating Values without formulas**
+7. **Updating Values without formulas**
 Using Paste Special : Add, Subtract, Multiply...
 
-**Debugging Formulas**
+8. **Debugging Formulas**
 F9 Key to check for values or TRUE/FALSE in IF statements by highlighting a part of the formula cell. 
 
-**Naming Ranges**
+9. **Naming Ranges**
 Drop Down cell address and edit. 
 Press F3 for range names. 
 Formulas Tab > Name Manager Function.
