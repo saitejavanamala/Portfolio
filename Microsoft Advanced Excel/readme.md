@@ -1,20 +1,21 @@
 ### A glimpse of things I can do in Excel:
 
 I have used Excel for an immense amount of time in the last six to seven years: 
-In school, at work and also while taking more than 20 courses on Linkedin. 
+In school, at work and also while taking more than 20 courses on Linkedin. I am familiar with more than 200 features in Excel. 
+The majority of them would be:There are four major areas which I can categorize my expertise into:
 
-##### Data Management, Data Modeling:
+##### 1. Data Management, Data Modeling:
 I can play with various Data Management features such as Sorting, Filtering, Splitting into Multiple Columns, Removing Duplicates, Data Validation and Flash Fill. I can create and manipulate pivot tables, grouping by date, by other factors, insert slicers, and also work with pivot charts. I can use Data Analysis features such as Goal Seek, using Solver, Scenario Manager. 
 I have a good understanding of Business Modeling tools such as Realtionships, Power Query.
 
 
-##### Advanced Formulas and Functions:
+##### 2. Advanced Formulas and Functions:
 Viewing, Auditing, Referencing, Debugging Formulas to  
 
-##### Formatting:
+##### 3. Formatting:
 I can use Conditional Formatting rules. 
 
-##### Macros
+##### 4. Macros
 I can create and run macros.
 
 
