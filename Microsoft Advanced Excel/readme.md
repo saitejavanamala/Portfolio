@@ -61,6 +61,14 @@ By grouping sheets that have the same layout (colorado, Utah example)
 
 13. **Inserting and Function Description dialogue box using formula bar**
 
-14. **Autosum/Average/Count Columns/Rows using Autosum button in Home tab or Formula tab. Or Select Cell and Alt =
+14. **Autosum/Average/Count Columns/Rows using Autosum button in Home tab or Formula tab. Or Select Cell and Alt =**
 
-15. **Using Relative + Mixed References (Furniture Allocation example)
+15. **Using Relative + Mixed References (Furniture Allocation example)**
+
+16. **Using Autocalculate in the status bar**
+
+17. **Differnce between Count and Numerical Count**
+
+18. **IF logical test syntax**
+
+19. **Nested IF in [value if false]**
