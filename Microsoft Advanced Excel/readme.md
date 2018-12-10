@@ -1,4 +1,4 @@
-#### A glimpse of things I can do in Excel:
+### A glimpse of things I can do in Excel:
 
 I have used Excel for an immense amount of time in the last six to seven years: 
 In school, at work and also while taking more than 20 courses on Linkedin. 
@@ -16,7 +16,7 @@ I have a good understanding of Business Modeling tools such as Realtionships, Po
 
 
 
-### Advanced Formulas and Functions: 
+#### Advanced Formulas and Functions: 
 **Displaying and Higlighting Formulas**
 View Formulas using Ctrl + ~, Find and Select drop down, Show Formulas in Formulas tab in ribbon. 
 View Constants by Find and Select > Go to Special > Check Constants > Select only numbers
