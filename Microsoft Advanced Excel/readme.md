@@ -21,7 +21,7 @@ I can create and run macros.
 
 
 
-##### Advanced Formulas and Functions: 
+### Advanced Formulas and Functions: 
 1. **Displaying and Higlighting Formulas**
 View Formulas using Ctrl + ~, Find and Select drop down, Show Formulas in Formulas tab in ribbon. 
 2. View Constants by Find and Select > Go to Special > Check Constants > Select only numbers
