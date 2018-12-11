@@ -68,6 +68,23 @@ I can create and run macros.
 
 21. DSUM, DAVERAGE, DMAX
 
+22. Data Validation and Drop Down Lists
+
+* Date, Time and Text length controls
+
+23. Pivot Tables:
+
+* Creating and pivoting pivotTables
+* Formatting data for pivot tables
+* Summarising pivot table data
+* Sorting and filtering pivot table data
+* Formatting pivot tables
+* Applying conditional formatting to pivot tables
+* Creating and manipulate pivot charts
+* Printing pivot charts
+* Manipulating Pivot charts
+* Creating pivot tables using the Data Model
+
 
 ### 2 Advanced Formulas and Functions: 
 1. **Displaying and Higlighting Formulas**
