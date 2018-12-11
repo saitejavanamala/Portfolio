@@ -83,14 +83,8 @@ I can create and run macros.
 * Creating and manipulate pivot charts
 * Printing pivot charts
 * Manipulating Pivot charts
+* Creating pivot tables using the Data Model
 
-24. Creating pivot tables using the Data Model
-
-25. Power query workflow
-
-26. Importance of Power Query
-
-27. When to use Power Query and Power Pivot 
 
 ### 2 Advanced Formulas and Functions: 
 1. **Displaying and Higlighting Formulas**
@@ -212,6 +206,23 @@ By grouping sheets that have the same layout (colorado, Utah example)
 53. DATEDIF
 
 54. EDATE & EO Month
+
+55. **Array Formulae**
+
+56. Column, Column SUM, AVERAGE using array formula
+
+57. Counting unique entries in a range with array formula
+
+58. FREQUENCY array function
+
+59. TRANSPOSE with sync
+
+60. Regression analysis with TREND and GROWTH
+
+61. Array formula and MATCH function for complex lookups
+
+62. 
+
 
 
 
