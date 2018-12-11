@@ -119,6 +119,32 @@ I can create and run macros.
 
 40. Power query best practises
 
+41. **Data Modeling**
+
+42. Excel data model 
+
+43. Database normalization
+
+44. Data tables vs lookup tables
+
+45. relationships versus merged tables
+
+46. Create and modify table relationships
+
+47. Active versus inactive relationships
+
+48. Relationship cardinality
+
+49. Connect multiple tables
+
+50. Filter direction
+
+51. Hide filelds from client tools
+
+52. Define hierarchies
+
+53. Data model best practises
+
 ## 2. Advanced Formulas and Functions: 
 1. **Displaying and Higlighting Formulas**
 View Formulas using Ctrl + ~, Find and Select drop down, Show Formulas in Formulas tab in ribbon. 
