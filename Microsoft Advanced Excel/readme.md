@@ -85,6 +85,39 @@ I can create and run macros.
 * Manipulating Pivot charts
 * Creating pivot tables using the Data Model
 
+24. **Power Query:**
+
+25. Power Excel workflow
+
+26. Importance of Power Query and Power Pivot
+
+27. When to use Power Query and Power Pivot
+
+28. Options for data loading
+
+29. Text specific editing tools
+
+30. Number specific editing tools
+
+31. Date sepcific editing tools
+
+32. Rolling calendar with Power Query
+
+33. Add index and conditional columns with Power Query
+
+34. Group and aggregate data with Power Query
+
+35. Modify excel workbook queries
+
+36. Merge queries
+
+37. Append queries
+
+38. Connect excel to a folder or files
+
+39. Pivot and Unpivot data in Power Query
+
+40. Power query best practises
 
 ## 2 Advanced Formulas and Functions: 
 1. **Displaying and Higlighting Formulas**
