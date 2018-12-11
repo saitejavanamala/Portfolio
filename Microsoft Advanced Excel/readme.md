@@ -4,23 +4,23 @@ I have used Excel for an immense amount of time in the last six to seven years:
 In school, at work and also while taking more than 20 courses on Linkedin. I am familiar with more than 200 features in Excel. 
 There are four major areas into which I can categorize my knowledge:
 
-#### 1. Data Management & Data Modeling:
+#### a) Data Management & Data Modeling:
 I can play with various Data Management features such as Sorting, Filtering, Splitting into Multiple Columns, Removing Duplicates, Data Validation and Flash Fill. I can create and manipulate pivot tables, grouping by date, by other factors, insert slicers, and also work with pivot charts. I can use Data Analysis features such as Goal Seek, using Solver, Scenario Manager. 
 I have a good understanding of Business Modeling tools such as Realtionships, Power Query.
 
-#### 2. Advanced Formulas & Functions:
+#### b) Advanced Formulas & Functions:
 * Viewing, Auditing, Referencing, Debugging Formulas
 * Autosum, IF, Nested IF, IFS, VLOOKUP, HLOOKUP, INDEX, MATCH, CHOOSE, SWITCH
 * Power functions, math functions, date and time functions, string functions.
 
-#### 3. Formatting & Charting:
+#### c) Formatting & Charting:
 I can use Conditional Formatting rules. 
 
-#### 4. Macros
+#### d) Macros
 I can create and run macros.
 
 
-## 1 Data Management & Business Intelligence tools:
+## a) Data Management & Business Intelligence tools:
 
 1. Convert list to tables
 
