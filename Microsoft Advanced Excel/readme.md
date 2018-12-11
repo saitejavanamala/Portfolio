@@ -83,8 +83,14 @@ I can create and run macros.
 * Creating and manipulate pivot charts
 * Printing pivot charts
 * Manipulating Pivot charts
-* Creating pivot tables using the Data Model
 
+24. Creating pivot tables using the Data Model
+
+25. Power query workflow
+
+26. Importance of Power Query
+
+27. When to use Power Query and Power Pivot 
 
 ### 2 Advanced Formulas and Functions: 
 1. **Displaying and Higlighting Formulas**
