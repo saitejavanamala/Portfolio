@@ -103,7 +103,7 @@ I can create and run macros.
 
 30. Number specific editing tools
 
-31. Date sepcific editing tools
+31. Date specific editing tools
 
 32. Rolling calendar with Power Query
 
