@@ -221,9 +221,40 @@ By grouping sheets that have the same layout (colorado, Utah example)
 
 61. Array formula and MATCH function for complex lookups
 
-62. 
+62. **Reference Functions**:
 
+63. Grabbing data from remote cells using offset function
 
+64. Returning references using INDIRECT function
 
+65. Using INDIRECT with Data Validation
+
+66. **Text Functions:
+
+67. Locating and extracting Data with FIND, SEARCH AND MID functions
+
+68. Extracting specific data with LEFT and RIGHT functions
+
+69. TRIM function to remove unwanted spaces
+
+70. Using ampersand and CONCATENATE to combine data
+
+71. Using CONCAT and TEXTJOIN
+
+72. Alphabetical case with UPPER LOWER and PROPER
+
+73. REPLACE AND SUBSTITUTE
+
+74. utility text functions: TEXT, REPT, LEN
+
+75. **Information Functions**
+
+76. CELL and INFO
+
+77. ISBLANK, ISODD, ISEVEN, ISTEXT, ISNONTEXT, ISNUMBER
+
+78. ISERR, ISERROR, IFERROR, ISNA
+
+79. ISFORMULA
 
 
