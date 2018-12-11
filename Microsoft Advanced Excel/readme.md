@@ -1,4 +1,4 @@
-### A glimpse of things I can do in Excel:
+## A glimpse of things I can do in Excel:
 
 I have used Excel for an immense amount of time in the last six to seven years: 
 In school, at work and also while taking more than 20 courses on Linkedin. I am familiar with more than 200 features in Excel. 
@@ -20,7 +20,7 @@ I can use Conditional Formatting rules.
 I can create and run macros.
 
 
-### 1 Data Management & Data Modeling:
+# 1 Data Management & Data Modeling:
 
 1. Convert list to tables
 
@@ -86,7 +86,7 @@ I can create and run macros.
 * Creating pivot tables using the Data Model
 
 
-### 2 Advanced Formulas and Functions: 
+# 2 Advanced Formulas and Functions: 
 1. **Displaying and Higlighting Formulas**
 View Formulas using Ctrl + ~, Find and Select drop down, Show Formulas in Formulas tab in ribbon. 
 2. View Constants by Find and Select > Go to Special > Check Constants > Select only numbers
