@@ -20,7 +20,7 @@ I can use Conditional Formatting rules.
 I can create and run macros.
 
 
-## 1 Data Management & Data Modeling:
+## 1 Data Management & Business Intelligence tools:
 
 1. Convert list to tables
 
