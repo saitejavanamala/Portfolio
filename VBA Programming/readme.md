@@ -11,8 +11,7 @@
 
 ## VBA Programming Variables
 
-* Variables
-* Variable Practice
+* Variables: declaring, assigning, naming, types.
 * Option Explicit
 * Add and Subtract
 * Multiply and Divide
