@@ -67,7 +67,7 @@
 
 # In detail
 
-## Getting Started
+## Basics
 * Adding the Developer Toolbar
 * The Excel VBA Editor
 * Watch a Macro Being Recorded
