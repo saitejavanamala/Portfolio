@@ -18,8 +18,7 @@
 
 ## Conditional Logic
 
-* If Statements
-* Else ... ElseIf
+* If Statements, Else, ElseIf
 * Conditional Operators
 * Logical Operators
 * VBA Practice 1
