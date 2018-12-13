@@ -13,8 +13,7 @@
 
 * Variables: declaring, assigning, naming, types.
 * Option Explicit
-* Add and Subtract
-* Multiply and Divide
+* Math Operations: +, -, *, /
 * Other Excel VBA Variable Types
 
 ## Conditional Logic
