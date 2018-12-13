@@ -19,12 +19,9 @@
 ## Conditional Logic
 
 * If Statements, Else, ElseIf
-* Conditional Operators
-* Logical Operators
-* VBA Practice 1
-* VBA Practice 2
-* Select Case
-* VBA Practice 3
+* Conditional Operators: <, >, =, <=, >=, <>
+* Logical Operators: Boolean values, Logical Not, Logical And, Logical Or, Nested If
+* Select Case Statement
 * With ... End With
 
 
@@ -33,9 +30,14 @@
 * Text Strings in Excel VBA
 * Changing Case
 * Trim, Len, and Space
-* Excel VBA Replace
+* Replace
 * InStr, InStrRev, StrReverse
 * The Left and Right Functions
 * The Mid Function
-* A String Exercise
+
+## Programming Loops
+* For Loops
+* For Each Loops
+The Cells Property
+Excel VBA Do Loops
 
