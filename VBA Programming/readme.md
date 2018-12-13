@@ -63,6 +63,5 @@
 ## Excel VBA and Charts
 * Chart Sheets
 * Embedded Charts
-* Charts and User Forms, Part One
-* Charts and User Forms, Part Two
-* Reference: Chart Constants
+* Charts and User Forms
+* Chart Constants
