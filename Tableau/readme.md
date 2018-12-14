@@ -1,6 +1,10 @@
-# Tableau concepts
+# **Concepts & Projects**
 
-## a. Managing data sources and visualizations
+## Concepts: A glimpse of things I know in Tableau
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+
+#### a. Managing data sources and visualizations
 
 1. Connecting to a data source
 
@@ -20,7 +24,7 @@
 
 9. Presenting data using story lines
 
-## b. Managing Tableau Worksheets and Workbooks
+#### b. Managing Tableau Worksheets and Workbooks
 
 1. Displaying data underlying a workbook
 
@@ -36,7 +40,7 @@
 
 7. Creating a packaged workbook
 
-## c. Creating custom fields and calculations
+#### c. Creating custom fields and calculations
 
 1. Tableau operators and built-in functions
 
@@ -51,7 +55,7 @@
 6. Creating Calculations in dialog boxes
 
 
-## d. Analyzing using Statistical tools
+#### d. Analyzing using Statistical tools
 
 1. Calculating averages, medians, maximums, minimums
 
@@ -61,7 +65,7 @@
 
 4. Forecasting future values
 
-## e. Sorting and Filtering Tableau Data
+#### e. Sorting and Filtering Tableau Data
 
 1. Sorting based on a field's values
 
@@ -83,7 +87,7 @@
 
 10. Editing and deleting parameters
 
-## f. Defining groups and sets
+#### f. Defining groups and sets
 
 1. Defining a group
 
