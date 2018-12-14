@@ -36,6 +36,9 @@ Low
 4.	Microsoft Visio
 15.	Adobe Illustrator
 16.	Adobe InDesign
+18. SAS
+19. SPSS
+20. STATA
 
 ### Projects:
 
