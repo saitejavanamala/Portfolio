@@ -7,16 +7,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 #### 1. Basics
 * Key database concepts
 * Creating a database file
-* Understand trust center 
+* Trust center 
 * Ribbon tabs
 * Navigation pane
 * Tell me feature
-* Quick Access toolbar
 * Making backups
 * Accessing Acccess help
 
 #### 2. Creating tables
-* Understand Table structure and relationships
+* Table structure and relationships: Field data types, Primary and Secondary Keys, 3 forms of Datbase normalization
 * Create a table and set data types
 * Entering data
 * Understand primary and foreign keys
