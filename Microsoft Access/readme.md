@@ -1,8 +1,8 @@
 # **Concepts & Projects**
 
-##     A glimpse of things I know in Access
+###     A glimpse of things I know in Access
 
-### 1. Basics
+#### 1. Basics
 
 * Key database concepts
 * Creating a database file
