@@ -1,4 +1,6 @@
-# A glimpse of things I know in Access
+# Concepts & Projects
+
+## A glimpse of things I know in Access
 
 ### 1. Basics
 
@@ -12,7 +14,7 @@
 * Making backups
 * Accessing Acccess help
 
-2. Creating tables
+### 2. Creating tables
 
 * Understand Table structure and relationships
 * Create a table and set data types
@@ -20,7 +22,7 @@
 * Understand primary and foreign keys
 * Import tables
 
-3. Setting field properties
+### 3. Setting field properties
 
 * Establish relationships and 
 * 
