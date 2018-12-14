@@ -25,8 +25,6 @@
 #### 3. Setting field properties
 
 * Establish relationships and 
-* 
-* 
-* 
-* 
+
+## Projects: Exercise files and mini projects
 
