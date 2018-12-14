@@ -32,8 +32,10 @@ Medium
 Low
 1.	[Python](https://github.com/saitejavanamala/Portfolio/blob/master/Python/readme.md)
 3.	Power BI
-4.	Microsoft Visio
 14.	Microsoft Project
+
+Design & Photography: 
+4.	Microsoft Visio
 15.	Adobe Illustrator
 16.	Adobe InDesign
 
