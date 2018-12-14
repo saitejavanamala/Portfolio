@@ -38,7 +38,7 @@ Low
 16.	Adobe InDesign
 18. SAS
 19. SPSS
-20. STATA
+20. Stata
 
 ### Projects:
 
