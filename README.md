@@ -30,7 +30,7 @@ Medium
 17. Companion by Minitab
 
 Low
-1.	Python
+1.	[Python](https://github.com/saitejavanamala/Portfolio/blob/master/Python/readme.md)
 3.	Power BI
 4.	Microsoft Visio
 14.	Microsoft Project
