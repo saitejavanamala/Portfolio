@@ -18,7 +18,7 @@ High
 2.  [R Programming](https://github.com/saitejavanamala/Portfolio/blob/master/R/R_Concepts_Projects.md)
 3.	[Microsoft Advanced Excel](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Advanced%20Excel/readme.md)
 4.	[Microsoft PowerPoint](https://github.com/saitejavanamala/Portfolio/blob/master/PowerPoint/PowerPoint_Concepts_Projects.md)
-5.  [Tableau](https://github.com/saitejavanamala/Portfolio/blob/master/Tableau/readme.md)
+5.  [Tableau](https://github.com/saitejavanamala/Portfolio/blob/master/Tableau/Tableau_Concepts_Projects.md)
 6.	Lean Six Sigma
 
 Medium
