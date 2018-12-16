@@ -10,13 +10,13 @@ Tables, Queries, Forms, Reports and Macros
 
 **2. Queries -** I can build queries using both the wizard and design view. I can establish constraints with criteria, use wild cards, AND and OR multiple criteria, create parameters, build expressions. I can also use speciality queries such as udate, delete, append. UNION and crosstab queries, etc.
 
-**3. Forms -** I can create forms from tables, adjust form elements in Layout view, add components with form controls, create a navigation form. etc. 
+**3. Forms -** I can create forms from tables, adjust form elements in Layout view. I havea good idea of the property sheet, I can set up data sources, and add components with form controls, create a navigation form. etc. 
 
-**4. Reports -** I can generate reports with design view, layout view, group and sorting records, applying conditional formatting rules, etc. 
+**4. Reports -** I can generate reports with design view and layout view. I can sort and group records, applying conditional formatting rules, create labels, etc. 
 
 **5. Macros -** Finally, I can make macros, embed macros into buttons, etc. 
 
-Moreover, I understand options such as the Trust Center, Password protection, front and back end splitting of data, etc. 
+Moreover, I can export to Excel, email with macros. I understand options such as the Trust Center, Password protection, front and back end splitting of data, etc. 
 
 
 ## Projects
