@@ -25,7 +25,7 @@ Medium
 
 1. [Microsoft Access](https://github.com/saitejavanamala/Portfolio/tree/master/Microsoft%20Access)
 2. [VBA Programming](https://github.com/saitejavanamala/Portfolio/tree/master/VBA%20Programming)
-4.	Spotfire
+4.	[Spotfire](https://github.com/saitejavanamala/Portfolio/blob/master/Spotfire/Spotfire_Concepts_Projects.md)
 2.	Minitab 
 17. Companion by Minitab
 
