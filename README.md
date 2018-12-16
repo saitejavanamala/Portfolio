@@ -31,9 +31,9 @@ Medium
 
 Low
 1.	[Python](https://github.com/saitejavanamala/Portfolio/blob/master/Python/Python_Concepts_Projects.md)
-3.	[Power BI]()
-14.	[Microsoft Project]()
-4.	[Microsoft Visio]()
+3.	[Power BI](https://github.com/saitejavanamala/Portfolio/blob/master/Power%20BI/Power%20BI_Concepts_Projects.md)
+14.	[Microsoft Project](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Project/MS%20Project_Concepts_Projects.md)
+4.	[Microsoft Visio](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Visio/Visio_Concepts_Projects.md)
 15.	[Adobe Illustrator]()
 16.	[Adobe InDesign]()
 18. [SAS]()
