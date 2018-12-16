@@ -20,7 +20,6 @@
 Data Analysis & Visualization, Database Management
 
 1. [SQL](https://github.com/saitejavanamala/Portfolio/blob/master/SQL/SQL_Concepts_Projects.md)
-
 2.  [R Programming](https://github.com/saitejavanamala/Portfolio/blob/master/R/R_Concepts_Projects.md)
 3.	[Microsoft Advanced Excel](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Advanced%20Excel/readme.md)
 5.  [Tableau](https://github.com/saitejavanamala/Portfolio/blob/master/Tableau/Tableau_Concepts_Projects.md)
