@@ -12,7 +12,7 @@ Tables, Queries, Forms, Reports and Macros
 
 **3. Forms -** I can create forms from tables, adjust form elements in Layout view. I havea good idea of the property sheet, I can set up data sources, and add components with form controls, create a navigation form. etc. 
 
-**4. Reports -** I can generate reports with design view and layout view. I can sort and group records, applying conditional formatting rules, create labels, etc. 
+**4. Reports -** I can generate reports with design view and layout view. I can sort and group records, apply conditional formatting rules, create labels, etc. 
 
 **5. Macros -** Finally, I can make macros, embed macros into buttons, etc. 
 
