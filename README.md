@@ -30,7 +30,7 @@ Medium
 17. [Companion by Minitab](https://github.com/saitejavanamala/Portfolio/blob/master/Companion%20by%20Minitab/Companion_Concepts_Projects.md)
 
 Low
-1.	[Python](https://github.com/saitejavanamala/Portfolio/blob/master/Python/readme.md)
+1.	[Python](https://github.com/saitejavanamala/Portfolio/blob/master/Python/Python_Concepts_Projects.md)
 3.	[Power BI]()
 14.	[Microsoft Project]()
 4.	[Microsoft Visio]()
