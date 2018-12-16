@@ -2,7 +2,23 @@
 
 ## Concepts: A glimpse of things I know in Access
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+In Access, I understand table structures, relationships, 3 forms of database normalization, and other key database concepts.
+I can build and work with the five main features ---
+Tables, Queries, Forms, Reports and Macros
+
+1. Tables - I can create tables, set data types, establish relationships with referential integrity, edit tables in Design view, use sort, filter, masking, data validation, look up fields, etc
+
+2. Queries - I can create queries using both the wizard and design view. I can establish constraints with criteria, use wild cards, AND and OR multiple criteria, create parameters, build expressions. I can also use speciality queries such as udate, delete, append. UNION and crosstab queries, etc.
+
+3. Forms - I can generate forms from tables, adjust form elements in Layout view. I can create forms in design view, add components with form controls, create a navigation form. etc. 
+
+4. Reports - I am aware of all the essential concepts such as Editing in design view, layout view, group and sorting records, applying conditional formatting rules, etc. 
+
+5. Macros - Finally, I can create macros, embed macros into buttons, etc. 
+
+Moreover, I understand options such as the Trust Center, Password protection, front and back end splitting of data, etc. 
+
+
 
 #### 1. Basics
 * Key database concepts
