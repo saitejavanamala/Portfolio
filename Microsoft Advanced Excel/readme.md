@@ -7,12 +7,11 @@ In school, at work and also while taking more than 20 courses on Linkedin. I am 
 There are four major areas into which I can categorize my knowledge: 
 
 #### 1. Data Management & Business Intelligence tools:
-* Advannced Filtering
+* Advanced Filtering
 * Advanced Sorting
 * Array Formulas for data
 * Pivot tables
-* Power query
-* Data Modeling
+* Power query, Data Modeling
 
 #### 2. Advanced Formulas & Functions:
 * Viewing, Auditing, Referencing, Debugging Formulas
