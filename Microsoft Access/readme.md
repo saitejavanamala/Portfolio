@@ -16,7 +16,7 @@ Tables, Queries, Forms, Reports and Macros
 
 **5. Macros -** Finally, I can make macros, embed macros into buttons, etc. 
 
-Moreover, I can export to Excel, email with macros. I understand options such as the Trust Center, Password protection, front and back end splitting of data, etc. [Show the complete list](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Access/AccessConceptsInDetail.md)
+Moreover, I can export to Excel, email with macros. I understand options such as the Trust Center, Password protection, front and back end splitting of data, etc. [*Show the complete list*](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Access/AccessConceptsInDetail.md)
 
 
 ## Projects
