@@ -17,7 +17,7 @@
 
 
 
-Data Analysis & Visualization, Database Management
+ Database Management, Data Analysis & Visualization
 
 1. [SQL](https://github.com/saitejavanamala/Portfolio/blob/master/SQL/SQL_Concepts_Projects.md)
 2.  [R Programming](https://github.com/saitejavanamala/Portfolio/blob/master/R/R_Concepts_Projects.md)
