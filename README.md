@@ -19,7 +19,7 @@ High
 3.	[Microsoft Advanced Excel](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Advanced%20Excel/readme.md)
 4.	[Microsoft PowerPoint](https://github.com/saitejavanamala/Portfolio/blob/master/PowerPoint/PowerPoint_Concepts_Projects.md)
 5.  [Tableau](https://github.com/saitejavanamala/Portfolio/blob/master/Tableau/Tableau_Concepts_Projects.md)
-6.	Lean Six Sigma
+6.	[Lean Six Sigma](https://github.com/saitejavanamala/Portfolio/blob/master/Lean%20Six%20Sigma/Lean_Six_Sigma_Concepts_Projects.md)
 
 Medium
 
