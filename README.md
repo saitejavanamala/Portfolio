@@ -7,9 +7,9 @@
 >3. Project Management
 
 ### Experience:
-1. Industrial Engineer - Piping Technology and Products 
-1. Transportation Specialist - Amazon 
-1. Industrial Engineer Intern - D.S Veshala Engineering Services
+1. [Industrial Engineer - Piping Technology and Products]()
+1. [Transportation Specialist - Amazon]() 
+1. [Industrial Engineer Intern - D.S Veshala Engineering Services]()
 
 
 ### Skillset:
@@ -26,23 +26,23 @@ Medium
 1. [Microsoft Access](https://github.com/saitejavanamala/Portfolio/tree/master/Microsoft%20Access)
 2. [VBA Programming](https://github.com/saitejavanamala/Portfolio/tree/master/VBA%20Programming)
 4.	[Spotfire](https://github.com/saitejavanamala/Portfolio/blob/master/Spotfire/Spotfire_Concepts_Projects.md)
-2.	Minitab 
-17. Companion by Minitab
+2.	[Minitab]()
+17. [Companion by Minitab]()
 
 Low
 1.	[Python](https://github.com/saitejavanamala/Portfolio/blob/master/Python/readme.md)
-3.	Power BI
-14.	Microsoft Project
-4.	Microsoft Visio
-15.	Adobe Illustrator
-16.	Adobe InDesign
-18. SAS
-19. SPSS
-20. Stata
+3.	[Power BI]()
+14.	[Microsoft Project]()
+4.	[Microsoft Visio]()
+15.	[Adobe Illustrator]()
+16.	[Adobe InDesign]()
+18. [SAS]()
+19. [SPSS]()
+20. [Stata]()
 
 ### Projects:
 
-1. Make it Happen! (Dept: Shipping, Piping Technology & Products)
-2. APICS Supply Chain Case Competition 2018
-3. MHI Facilities Planning 2017
-4. Make it Happen 2! (Dept: Rod Assembly, Piping Technology & Products)
+1. [Make it Happen! (Dept: Shipping, Piping Technology & Products)]()
+2. [APICS Supply Chain Case Competition 2018]()
+3. [MHI Facilities Planning 2017]()
+4. [Make it Happen 2! (Dept: Rod Assembly, Piping Technology & Products)]()
