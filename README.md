@@ -29,6 +29,7 @@ Data Analysis & Visualization
 3.	[Power BI](https://github.com/saitejavanamala/Portfolio/blob/master/Power%20BI/Power%20BI_Concepts_Projects.md)
 4.	[Spotfire](https://github.com/saitejavanamala/Portfolio/blob/master/Spotfire/Spotfire_Concepts_Projects.md)
 
+
 Lean Six Sigma, Statistical Analysis, Project Management
 
 6.	[Lean Six Sigma](https://github.com/saitejavanamala/Portfolio/blob/master/Lean%20Six%20Sigma/Lean_Six_Sigma_Concepts_Projects.md)
@@ -41,6 +42,7 @@ Lean Six Sigma, Statistical Analysis, Project Management
 20. [Stata]()
 
 Design
+
 4.	[Microsoft Visio](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Visio/Visio_Concepts_Projects.md)
 15.	[Adobe Illustrator](https://github.com/saitejavanamala/Portfolio/blob/master/Adobe%20Illustrator/Adobe%20Illustrator_Concepts_Projects.md)
 16.	[Adobe InDesign](https://github.com/saitejavanamala/Portfolio/blob/master/Adobe%20InDesign/Adobe%20InDesign_Concepts_Projects.md)
