@@ -27,7 +27,7 @@ Medium
 2. [VBA Programming](https://github.com/saitejavanamala/Portfolio/tree/master/VBA%20Programming)
 4.	[Spotfire](https://github.com/saitejavanamala/Portfolio/blob/master/Spotfire/Spotfire_Concepts_Projects.md)
 2.	[Minitab](https://github.com/saitejavanamala/Portfolio/blob/master/Statistical%20Analysis/Minitab_Concepts_Projects.md)
-17. [Companion by Minitab]()
+17. [Companion by Minitab](https://github.com/saitejavanamala/Portfolio/blob/master/Companion%20by%20Minitab/Companion_Concepts_Projects.md)
 
 Low
 1.	[Python](https://github.com/saitejavanamala/Portfolio/blob/master/Python/readme.md)
