@@ -8,7 +8,7 @@ Tables, Queries, Forms, Reports and Macros
 
 **1. Tables -** I can create tables, set data types, establish relationships with referential integrity, edit tables in Design view, use sort, filter, masking, data validation, look up fields, etc
 
-**2. Queries -** I can build queries using both the wizard and design view. I can establish constraints with criteria, use wild cards, AND and OR multiple criteria, create parameters, build expressions. I can also use speciality queries such as udate, delete, append. UNION and crosstab queries, etc.
+**2. Queries -** I can build queries using both the wizard and design view. I can establish constraints with criteria, use wild cards, AND and OR multiple criteria, create parameters, build expressions. I can also use speciality queries such as update, delete, append. UNION and crosstab queries, etc.
 
 **3. Forms -** I can create forms from tables, adjust form elements in Layout view. I havea good idea of the property sheet, I can set up data sources, and add components with form controls, create a navigation form. etc. 
 
