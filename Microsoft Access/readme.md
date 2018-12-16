@@ -1,4 +1,4 @@
-# MS Access/ Concepts & Projects
+# MS Access / Concepts & Projects
 
 ## Concepts
 
