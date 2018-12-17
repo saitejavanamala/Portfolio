@@ -2,40 +2,40 @@
 
 1. Increased production metric (Daily Average Production) by 46% (1500 lbs to 2200 lbs) through data analysis using Advanced Excel (pivot tables and VBA) and R programming (dplyr).
 
-*a. Data wrangling (R::dplyr)
+*a. Data wrangling (R::dplyr)*
 
-*b. Excel pivot tables
+*b. Excel pivot tables*
 
-*c. VBA User form 
+*c. VBA User form *
 
 
 2. Decreased material identification time metric by 70% (15 minutes to 5 minutes) by utilizing MS Access and writing SQL code on MS SQL Server by performing joins, subqueries, intersect, etc. 
 
-*a. MS Access for creating table
+*a. MS Access for creating table*
 
-*b. SQL code
+*b. SQL code*
 
 
 3. Generated summary statistics and production reports using Tableau and R (tidyr, ggplot2).
 
-*a. Box Plot (Showing variation, median and outliers)
+*a. Box Plot (Showing variation, median and outliers)*
 
-*b. Production by Department 
+*b. Production by Department *
 
-*c. Production Line Chart (Rod Assembly - Material Handlers requirement)
+*c. Production Line Chart (Rod Assembly - Material Handlers requirement)*
 
 
 4. Implemented Lean Six Sigma techniques (fish-bone diagram, pareto analysis, 5S,  
 
-*a. 5S table
+*a. 5S table*
 
-*b. Fish bone diagram
+*b. Fish bone diagram*
 
-*c. Process Flow diagram (Business Process Notation Modeling)
+*c. Process Flow diagram (Business Process Notation Modeling)*
 
 
 5. Created project presentations using Microsoft PowerPoint and Microsoft Visio for proposals and meetings
 
-*a. Make it Happen!
+*a. Make it Happen!*
 
 
