@@ -36,8 +36,9 @@ c. *Process Flow diagram (Business Process Notation Modeling)*
 
 * Created project presentations using Microsoft PowerPoint and Microsoft Visio for proposals and meetings
 
-a. *Make it Happen!*
 
-* Documented Standard Operating Procedures for Assembly and Shipping operations using Business Process Modeling Notation (BPMN)
+* Documented Standard Operating Procedures for Assembly and Shipping operations using Business Process Modeling Notation (BPMN).
 
+
+* Utilized company's Enterprise Resource Management(ERP) system, Bill of Materials(BOM), AutoCAD drawings, for data mining and decision-making. 
 
