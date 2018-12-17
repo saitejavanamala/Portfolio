@@ -2,11 +2,11 @@
 
 1. Increased production metric (Daily Average Production) by 46% (1500 lbs to 2200 lbs) through data analysis using Advanced Excel (pivot tables and VBA) and R programming (dplyr).
 
-*a. Data wrangling (R::dplyr)*
+1. *Data wrangling (R::dplyr)*
 
-*b. Excel pivot tables*
+2. *Excel pivot tables*
 
-*c. VBA User form *
+*3. VBA User form *
 
 
 2. Decreased material identification time metric by 70% (15 minutes to 5 minutes) by utilizing MS Access and writing SQL code on MS SQL Server by performing joins, subqueries, intersect, etc. 
