@@ -40,5 +40,5 @@ c. *Process Flow diagram (Business Process Notation Modeling)*
 * Documented Standard Operating Procedures for Assembly and Shipping operations using Business Process Modeling Notation (BPMN).
 
 
-* Utilized company's Enterprise Resource Management(ERP) system, Bill of Materials(BOM), AutoCAD drawings, for data mining and decision-making. 
+* Utilized company's Enterprise Resource Management (ERP) system, Bill of Materials (BOM), AutoCAD drawings, for data mining and decision-making. 
 
