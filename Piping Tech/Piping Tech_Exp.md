@@ -6,7 +6,7 @@ a. *Data wrangling (R::dplyr)*
 
 b. *Excel pivot tables*
 
-c. *VBA User form *
+c. *VBA User form*
 
 
 Decreased material identification time metric by 70% (15 minutes to 5 minutes) by utilizing MS Access and writing SQL code on MS SQL Server by performing joins, subqueries, intersect, etc. 
