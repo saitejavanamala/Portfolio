@@ -25,7 +25,7 @@ b. *Production by Department *
 c. *Production Line Chart (Rod Assembly - Material Handlers requirement)*
 
 
-* Implemented Lean Six Sigma techniques (fish-bone diagram, pareto analysis, 5S,  
+* Implemented Lean Six Sigma techniques (fish-bone diagram, pareto analysis, 5S, 5 WHYS) and utilized Companion by Minitab to create graphs and forms 
 
 a. *5S table*
 
