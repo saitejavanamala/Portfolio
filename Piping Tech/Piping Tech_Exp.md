@@ -38,4 +38,6 @@ c. *Process Flow diagram (Business Process Notation Modeling)*
 
 a. *Make it Happen!*
 
+* Documented Standard Operating Procedures for Assembly and Shipping operations using Business Process Modeling Notation (BPMN)
+
 
