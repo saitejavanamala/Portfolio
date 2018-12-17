@@ -34,7 +34,6 @@ Lean Six Sigma, Statistical Analysis, Project Management
 14.	[MS Project](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Project/MS%20Project_Concepts_Projects.md)
 18. [SAS]()
 19. [SPSS]()
-20. [Stata]()
 
 Design
 
