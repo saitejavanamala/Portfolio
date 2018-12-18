@@ -22,3 +22,14 @@ FROM ptpdb1.Jobs
 WHERE Status IN ('WG', 'WS', or 'WP') AND Size IN (1, 4);
 
 ```
+
+* Write a query to find the JobNumber, ContractDate from Jobs table where JobNumber begins with '167'
+
+```SQL
+-- select the JobNumber, ContractDate
+SELECT JobNumber, ContractDate
+FROM ptpdb1.Jobs
+-- filter for JobNumbers beginning with '167' using LIKE
+WHERE JobNumber LIKE '167%';
+
+```
