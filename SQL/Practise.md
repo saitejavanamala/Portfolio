@@ -1,6 +1,6 @@
 SQL practise
 
-* Write a query to find the * Write a query to find the JobNumber, Status from Jobs table with ItemQty < 20
+* Write a query to find the JobNumber, Status from Jobs table with ItemQty < 20
 
 
 ``` SQL
