@@ -1,13 +1,13 @@
 SQL practise
 
-* Write a query to find the names, colors, and sizes of the products with a product model ID of 1
+* Write a query to find the * Write a query to find the JobNumber, Status from Jobs table with ItemQty < 20
+
 
 ``` SQL
--- select the Name, Color, and Size columns
-SELECT Name, Color, Size
-FROM SalesLT.Product
--- check ProductModelID is 1
-WHERE ProductModelID = 1;
-
+-- select the JobNumber, Status 
+SELECT JobNumber, Status
+FROM ptpdb1.Jobs
+-- check ItemQty is less than 20
+WHERE ItemQty < 20;
 ```
 
