@@ -1,4 +1,4 @@
-SQL practise
+
 
 * Write a query to find the JobNumber, Status from Jobs table with ItemQty < 20
 
