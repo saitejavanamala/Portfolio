@@ -1,5 +1,6 @@
-#### To do List
+### To do List
 
+#### Piping Tech
 1. Line Graph (Strut Production) - Our performance has increased.
 2. Line Graph (Strut production: Scheduled Vs Achieved) - We need more material handlers.
 3. Box plot (Strut production by month) - We are getting consistent but there are a few outliers. 
@@ -11,3 +12,6 @@
 9. GIF - 8 Wastes at PTP
 10. Pareto chart for 8 Wastes at PTP
 11. 5S Table
+
+#### Amazon
+1. Fish bone diagram
