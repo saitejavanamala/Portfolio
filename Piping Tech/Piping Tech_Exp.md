@@ -1,6 +1,6 @@
 ### About
 
-* Increased production metric (Daily Average Production) by 46% (1500 lbs to 2200 lbs) through data analysis using Advanced Excel (pivot tables and VBA) and R programming (dplyr).
+* Increased Daily Average Production by 46% (1500 lbs to 2200 lbs) through data analysis using Advanced Excel (pivot tables and VBA) and R programming (dplyr).
 
 a. *Data wrangling (R::dplyr)*
 
