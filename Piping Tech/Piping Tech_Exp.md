@@ -1,6 +1,6 @@
 ### About 
 
-* Increased Daily Average Production by 46% (1500 lbs to 2200 lbs) through data analysis using Advanced Excel (pivot tables and VBA) and R programming (dplyr).
+* Increased Daily Average Production by 46% (1500 lbs to 2200 lbs) through data analysis using Advanced Excel (pivot tables and VBA) and R programming (dplyr, ggplot2, tidyr, readr).
 
 ## We are trying to be consistent with our metrics!
 ### ![We are Improving](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/WeAreImproving.png)
