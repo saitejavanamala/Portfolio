@@ -5,6 +5,21 @@
 ## We are trying to be consistent with our metrics!
 ### ![We are Improving](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/WeAreImproving.png)
 
+```R
+install.packages("tidyverse")
+library(plotly)
+library(tidyverse)
+PackagesData <- read_delim("C:/Users/Sai Teja/Desktop/R/StrutsReportForR.csv", delim = ',',
+                           col_names = c( "NetWeight", "Time"), skip = 1)
+glimpse(PackagesData)
+
+Pk1 <- PackagesData %>%
+              group_by(Time) %>%
+              summarise(TotalWt = sum(NetWeight)) %>%
+              arrange(Time)
+
+plot_ly(Pk1, x = ~Time, y = ~TotalWt, type = 'bar') 
+```
 
 
 a. *Data wrangling (R::dplyr)*
