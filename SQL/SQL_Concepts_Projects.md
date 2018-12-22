@@ -8,7 +8,7 @@ In SQL, I have been coding using many concepts:
 5. With respect to functions: I know Aggregate functions, Window functions, Date and Time, Mathematical, Logical functions, Conversion functions. Also, functions dealing with null values such as ISNULL, NULLIF, COALESCE. 
 6. I can use GROUP BY, GROUPING SETS, PIVOT, UNPIVOT for calculating subtotals and grand totals.
 
-" [*Show the complete list.*](https://github.com/saitejavanamala/Portfolio/blob/master/SQL/SQLConceptsInDetail.md)
+[*Show the complete list.*](https://github.com/saitejavanamala/Portfolio/blob/master/SQL/SQLConceptsInDetail.md)
 
 
 ## Projects
