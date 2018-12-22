@@ -11,7 +11,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ```sql
 ---Create a multi-valued subquery
 
-SELECT Job + '-' + Item AS Possible Match 
+SELECT Job + '-' + Item AS PossibleMatch 
 FROM Jobs.CompleteList 
 WHERE PartCategory = "TS 2x2x1/4x24" A 500 GR. B" AND PartComments = "%holes" AND FinalFinish = "PAINT 2";
 AND Job  IN (SELECT Job + '-' + Item FROM Jobs.CompleteList 
@@ -23,7 +23,7 @@ AND Job  IN (SELECT Job + '-' + Item FROM Jobs.CompleteList
 ```sql
 ---The same result could be achieved with INTERSECT
 
-SELECT Job + '-' + Item AS Possible Match 
+SELECT Job + '-' + Item AS PossibleMatch 
 FROM Jobs.CompleteList 
 WHERE PartCategory = "TS 2x2x1/4x24" A 500 GR. B" AND PartComments = "%holes" AND FinalFinish = "PAINT 2" ;
 
