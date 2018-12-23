@@ -103,7 +103,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 8. Editing and deleting sets
 
-## g. Creating and Pivoting Crosstabs
+#### g. Creating and Pivoting Crosstabs
 
 1. Creating a crosstab
 
@@ -111,7 +111,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 3. Adding totals and subtotals to a crosstab
 
-## h. Formatting Tableau Visualizations
+#### h. Formatting Tableau Visualizations
 
 1. Changing the visual summary type
 
@@ -123,7 +123,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 5. Creating a highlight table
 
-## i. Creating basic charts
+#### i. Creating basic charts
 
 1. Creating column and stacked column charts
 
@@ -143,7 +143,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 9. Creating a treemap
 
-## j. Annotating and Formatting charts
+#### j. Annotating and Formatting charts
 
 1. Adding a textbox to a chart
 
@@ -155,7 +155,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 5. Adding reference lines, distributions, and boxes
 
-## k. Creating dashboards and actions
+#### k. Creating dashboards and actions
 
 1. Creating a dashboard
 
