@@ -16,7 +16,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 6. Changing the order of the fields in a visualization
 
-7. Changing the Summart operation
+7. Changing the Summary operation
 
 8. Splitting text into multiple columns
 
