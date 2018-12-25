@@ -22,7 +22,7 @@ Database Management, Data Analysis & Visualization
 1. [MS Access](https://github.com/saitejavanamala/Portfolio/tree/master/Microsoft%20Access)
 2. [VBA Programming](https://github.com/saitejavanamala/Portfolio/tree/master/VBA%20Programming)
 3.	[Power BI](https://github.com/saitejavanamala/Portfolio/blob/master/Power%20BI/Power%20BI_Concepts_Projects.md)
-<! 4.	[Spotfire](https://github.com/saitejavanamala/Portfolio/blob/master/Spotfire/Spotfire_Concepts_Projects.md) >
+<!4.	[Spotfire](https://github.com/saitejavanamala/Portfolio/blob/master/Spotfire/Spotfire_Concepts_Projects.md)>
 
 Lean Six Sigma, Statistical Analysis, Project Management
  
