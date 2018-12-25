@@ -28,10 +28,3 @@ I can create and run macros.
 
 
 [*Show the complete list.*](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Advanced%20Excel/Excel_Concepts_Detail.md)
-
-## Projects
-
-### Amazon
-### School Projects 
-### Piping Technology and Products
-
