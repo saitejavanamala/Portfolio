@@ -9,7 +9,7 @@
 ### Experience
 1. [Industrial Engineer - Piping Technology and Products, Inc.](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/Piping%20Tech_Exp.md)
 1. [Transportation Specialist - AMAZON.com, Inc.](https://github.com/saitejavanamala/Portfolio/blob/master/Amazon/Amazon_Exp.md)
-1. [Graduate Assistant - UH Energy, University of Houston]() 
+1. [Graduate Assistant - UH Energy]() 
 1. [Industrial Engineer Intern - D.S Veshala Engineering Services]()
 1. [Author - Words The Vocabulary Book]()
 
