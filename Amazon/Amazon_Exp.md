@@ -1,4 +1,4 @@
-• Resolved more than 900 last mile logistical issues in North America through root cause analysis of delayed orders by utilizing SOPs, MS Excel and Amazon’s tools such as Transportation Operations Center portal, CS Central, GDE, and COMP.
+ * Resolved more than 900 last mile logistical issues in North America through root cause analysis of delayed orders by utilizing SOPs, MS Excel and Amazon’s Enterprise Ressource Management (ERP) system. 
 
 • Contributed in regular lean/kaizen sessions to optimize delivery lead time and to reduce waste of motion of operations as a part of the continuous improvement project for order fulfillment processes.
 
