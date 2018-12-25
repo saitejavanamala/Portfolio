@@ -1,6 +1,4 @@
-# Excel: Concepts & Projects
-
-## Concepts
+# Excel: Concepts
 
 I have used Excel for an immense amount of time in the last six to seven years: 
 In school, at work and also while taking more than 20 courses on Linkedin. I am familiar with more than 200 features in Excel. 
