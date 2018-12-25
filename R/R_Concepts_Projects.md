@@ -5,7 +5,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ## Projects
-### Titanic Disaster dataset - Exploratory Data Analysis
 ### Global Superstore dataset - Time Series Analysis
 ### Gapminder dataset - dplyr and ggplot2
 ### Boston Metropolitan data - tidyr 
