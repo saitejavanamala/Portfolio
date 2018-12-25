@@ -13,9 +13,10 @@
 
 
 ### Skillset
-Database Management, Data Analysis & Visualization
+Database Modeling, Data Analysis & Visualization
 
 1. [SQL](https://github.com/saitejavanamala/Portfolio/blob/master/SQL/SQL_Concepts_Projects.md)
+2. [ER/Studio]()
 2.  [R Programming](https://github.com/saitejavanamala/Portfolio/blob/master/R/R_Concepts_Projects.md)
 3.	[MS Advanced Excel](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Advanced%20Excel/readme.md)
 5.  [Tableau](https://github.com/saitejavanamala/Portfolio/blob/master/Tableau/Tableau_Concepts_Projects.md)
