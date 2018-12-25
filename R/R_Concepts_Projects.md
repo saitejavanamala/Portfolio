@@ -5,7 +5,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 
 ## Projects
-### mtcars
-### iris
-### gap minder
-### Piping Technology & Products
+### Titanic Disaster dataset - Exploratory Data Analysis
+### Global Superstore dataset - Time Series Analysis
+### Gapminder dataset - dplyr and ggplot2
+### Boston Meteropolitan data - tidyr 
+### Iris Dataset - tidyr, dplyr, ggplot2 
+### Ozone dataset - Exploratory Data Analysis
