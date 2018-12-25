@@ -21,19 +21,15 @@ Database Management, Data Analysis & Visualization
 5.  [Tableau](https://github.com/saitejavanamala/Portfolio/blob/master/Tableau/Tableau_Concepts_Projects.md)
 1. [MS Access](https://github.com/saitejavanamala/Portfolio/tree/master/Microsoft%20Access)
 2. [VBA Programming](https://github.com/saitejavanamala/Portfolio/tree/master/VBA%20Programming)
-1.	[Python](https://github.com/saitejavanamala/Portfolio/blob/master/Python/Python_Concepts_Projects.md)
 3.	[Power BI](https://github.com/saitejavanamala/Portfolio/blob/master/Power%20BI/Power%20BI_Concepts_Projects.md)
 4.	[Spotfire](https://github.com/saitejavanamala/Portfolio/blob/master/Spotfire/Spotfire_Concepts_Projects.md)
 
 Lean Six Sigma, Statistical Analysis, Project Management
  
 1.	[Lean Six Sigma](https://github.com/saitejavanamala/Portfolio/blob/master/Lean%20Six%20Sigma/Lean_Six_Sigma_Concepts_Projects.md)
-2.	[Minitab](https://github.com/saitejavanamala/Portfolio/blob/master/Statistical%20Analysis/Minitab_Concepts_Projects.md)
 3. [Companion](https://github.com/saitejavanamala/Portfolio/blob/master/Companion%20by%20Minitab/Companion_Concepts_Projects.md)
 4.	[PowerPoint](https://github.com/saitejavanamala/Portfolio/blob/master/PowerPoint/PowerPoint_Concepts_Projects.md)
 14.	[MS Project](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Project/MS%20Project_Concepts_Projects.md)
-18. [SAS]()
-19. [SPSS]()
 
 Design
 
