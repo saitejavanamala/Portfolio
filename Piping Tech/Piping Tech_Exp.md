@@ -1,5 +1,7 @@
 ### About 
 
+
+### Activities
 * Increased Daily Average Production by 46% (1500 lbs to 2200 lbs) through exploratory data analysis using Advanced Excel and R programming (dplyr, ggplot2, tidyr, readr).
 
 ## We are trying to be consistent with our metrics!
