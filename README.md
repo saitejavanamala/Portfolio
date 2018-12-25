@@ -13,7 +13,7 @@
 
 
 ### Skillset
-Database Modeling, Data Analysis & Visualization
+Data Modeling, Data Analysis & Visualization
 
 1. [SQL](https://github.com/saitejavanamala/Portfolio/blob/master/SQL/SQL_Concepts_Projects.md)
 2. [ER/Studio]()
