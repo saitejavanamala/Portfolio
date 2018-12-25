@@ -28,7 +28,7 @@ Lean Six Sigma, Statistical Analysis, Project Management
  
 1.	[Lean Six Sigma](https://github.com/saitejavanamala/Portfolio/blob/master/Lean%20Six%20Sigma/Lean_Six_Sigma_Concepts_Projects.md)
 3. [Companion](https://github.com/saitejavanamala/Portfolio/blob/master/Companion%20by%20Minitab/Companion_Concepts_Projects.md)
-4.	[PowerPoint](https://github.com/saitejavanamala/Portfolio/blob/master/PowerPoint/PowerPoint_Concepts_Projects.md)
+4.	[MS PowerPoint](https://github.com/saitejavanamala/Portfolio/blob/master/PowerPoint/PowerPoint_Concepts_Projects.md)
 14.	[MS Project](https://github.com/saitejavanamala/Portfolio/blob/master/Microsoft%20Project/MS%20Project_Concepts_Projects.md)
 
 Design
