@@ -3,7 +3,7 @@
 ## Concepts
 I am familiar with the following packages in r
 1. readr
-2. tiidyr
+2. tidyr
 3. dplyr
 4. ggplot2
 
