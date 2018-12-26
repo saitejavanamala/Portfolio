@@ -7,22 +7,6 @@ Piping Technology and Products is a pipe supports manufacturing company based in
 ## We are trying to be consistent with our metrics!
 ### ![We are Improving](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/WeAreImproving.png)
 
-```R
-install.packages("tidyverse")
-library(plotly)
-library(tidyverse)
-PackagesData <- read_delim("C:/Users/Sai Teja/Desktop/R/StrutsReportForR.csv", delim = ',',
-                           col_names = c( "NetWeight", "Time"), skip = 1)
-glimpse(PackagesData)
-
-Pk1 <- PackagesData %>%
-              group_by(Time) %>%
-              summarise(TotalWt = sum(NetWeight)) %>%
-              arrange(Time)
-
-plot_ly(Pk1, x = ~Time, y = ~TotalWt, type = 'bar') 
-```
-
 
 * Decreased material identification time metric by 70% (15 minutes to 5 minutes) by utilizing MS Access and writing SQL code on MS SQL Server by performing joins, subqueries, intersect, etc. 
 
