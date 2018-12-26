@@ -14,7 +14,7 @@ Piping Technology and Products is a pipe supports manufacturing company based in
 
 
 ```sql
----Create a multi-valued subquery
+---Created a multi-valued subquery
 
 SELECT Job + '-' + Item AS PossibleMatch 
 FROM Jobs.CompleteList 
