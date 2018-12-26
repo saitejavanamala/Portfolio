@@ -26,6 +26,17 @@ plot_ly(Pk1, x = ~Time, y = ~TotalWt, type = 'bar')
 
 * Decreased material identification time metric by 70% (15 minutes to 5 minutes) by utilizing MS Access and writing SQL code on MS SQL Server by performing joins, subqueries, intersect, etc. 
 
+```sql
+---Create a multi-valued subquery
+
+SELECT Job + '-' + Item AS PossibleMatch 
+FROM Jobs.CompleteList 
+WHERE PartCategory = "TS 2x2x1/4x24" A 500 GR. B" AND PartComments = "%holes" AND FinalFinish = "PAINT 2"
+AND Job  IN (SELECT Job + '-' + Item FROM Jobs.CompleteList 
+	    WHERE PartCategory = "W 6 x 15 x 78" AND 
+	    PartComments IS NULL AND FinalFinish = "PAINT 2");
+	    
+```
 
 * Generated summary statistics and production reports using Tableau and R (tidyr, ggplot2).
 
