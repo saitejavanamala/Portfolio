@@ -32,7 +32,7 @@ plot_ly(Pk1, x = ~Time, y = ~TotalWt, type = 'bar')
 
 * Implemented Lean Six Sigma techniques (fish-bone diagram, pareto analysis, 5S, 5 WHYS) and utilized Companion by Minitab to create graphs and forms.
 
-#### [A sample fishbone diagram to pinpoint major issues and to come up with solutions](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/Fishbone.PNG)
+#### ![A sample fishbone diagram to pinpoint major issues and to come up with solutions](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/Fishbone.PNG)
 
 * Created project presentations using Microsoft PowerPoint and Microsoft Visio for proposals and meetings
 
