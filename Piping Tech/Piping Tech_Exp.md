@@ -2,13 +2,12 @@
 Piping Technology and Products is a pipe supports manufacturing company based in Houston, Texas.  I am working with Piping Tech as a Project Engineer. 
 
 ### Activities
-* Increased Daily Average Production by 46% (1500 lbs to 2200 lbs) through exploratory data analysis using Advanced Excel and R programming (dplyr, ggplot2, tidyr, readr).
+* Increased Daily Average Production by 46% (1500 lbs to 2200 lbs) through exploratory data analysis using Advanced Excel (Pivot tables, VBA Macros, Power Query, Data Modeling, VLOOKUP, HLOOKUP) and R programming (dplyr, ggplot2, tidyr, readr).
 
 ## We are trying to be consistent with our metrics!
 ### ![We are Improving](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/WeAreImproving.png)
 
-
-* Decreased average material identification time metric by aprox. 60% (11 minutes to 4.5 minutes) by utilizing MS SQL Server for writing SQL queries leading to 20% increase in Daily Average Production metric. 
+* Decreased Average Material Identification Time metric by aprox. 60% (11 minutes to 4.5 minutes) by utilizing MS SQL Server for writing SQL queries leading to 20% increase in Daily Average Production metric. 
 
 ![Results](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/MatIdTime.png)
 
