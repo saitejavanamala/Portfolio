@@ -14,12 +14,23 @@ There are four major areas into which I can categorize my knowledge:
 #### 2. Advanced Formulas & Functions:
 * Viewing, Auditing, Referencing, Debugging Formulas
 * Autosum, IF, Nested IF, IFS, VLOOKUP, HLOOKUP, INDEX, MATCH, CHOOSE, SWITCH
-* Power functions, Math functions
-* Date and time functions, String functions
-* Array formulae, Reference functions, Information functions
+* Power functions
+* Math functions
+* Date and time functions
+* String functions
+* Array formulae
+* Reference functions
+* Information functions
 
 #### 3. Formatting & Charting:
-I can use Conditional Formatting rules. 
+* Fonts, Borders, Colors
+* Alignment tools
+* Conditional formatting
+* Number, Date and Custom formats
+* Formats based on formulas
+* Tables, Styles and Themes
+* Format images
+* Specialised Formatting techniques
 
 #### 4. Macros
 I can create and run macros.
