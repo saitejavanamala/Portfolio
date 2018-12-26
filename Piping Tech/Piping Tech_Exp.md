@@ -8,7 +8,7 @@ Piping Technology and Products is a pipe supports manufacturing company based in
 ### ![We are Improving](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/WeAreImproving.png)
 
 
-* Decreased material identification time metric by 70% (15 minutes to 5 minutes) by utilizing MS Access and writing SQL code on MS SQL Server by performing joins, subqueries, intersect, etc. 
+* Decreased avaergae material identification time metric by 70% (15 minutes to 5 minutes) by utilizing MS SQL Server for writing SQL queries leading to 20% increase in Daily Average Production metric. 
 
 ```sql
 ---Create a multi-valued subquery
