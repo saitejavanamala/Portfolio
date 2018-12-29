@@ -12,15 +12,7 @@ Piping Technology and Products is a pipe supports manufacturing company based in
 ![Results](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/MatIdTime.png)
 
 
-```sql
----Created a multi-valued subquery
 
-SELECT Job + '-' + Item AS PossibleMatch 
-FROM Jobs.CompleteList 
-WHERE PartCategory = "TS 2x2x1/4x24" A 500 GR. B" AND PartComments = "%holes" AND FinalFinish = "PAINT 2"
-AND Job  IN (SELECT Job + '-' + Item FROM Jobs.CompleteList 
-	    WHERE PartCategory = "W 6 x 15 x 78" AND 
-	    PartComments IS NULL AND FinalFinish = "PAINT 2");
 	    
 ```
 
