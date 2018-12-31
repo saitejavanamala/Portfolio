@@ -12,8 +12,6 @@ Piping Technology and Products is a pipe supports manufacturing company based in
 
 
 
-	    
-```
 
 * Generated summary statistics and production reports using Tableau and R (tidyr, ggplot2).
 
