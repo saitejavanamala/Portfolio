@@ -4,8 +4,7 @@ Piping Technology and Products is a pipe supports manufacturing company based in
 ### Activities
 * Increased Daily Average Production by 46% (1500 lbs to 2200 lbs) through exploratory data analysis using Advanced Excel (Pivot tables, VBA Macros, Power query, Data modeling, VLOOKUP, HLOOKUP) and R programming (dplyr, ggplot2, tidyr, readr).
 
-## We have become consistent.
-### ![We are Improving](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/WeAreImproving.png)
+[Tableau Dashboards](https://us-east-1.online.tableau.com/t/saitejavanamala/views/PTP/Dashboard1?iframeSizedToWindow=true&:embed=y&:original_view=yes&:showAppBanner=false&:display_count=no&:showVizHome=no)
 
 * Decreased Average Material Identification Time metric by aprox. 60% (11 minutes to 4.5 minutes) by utilizing MS SQL Server for writing SQL queries (Joins, Subqueries, Union, Intersect) leading to 20% increase in Daily Average Production metric. 
 
