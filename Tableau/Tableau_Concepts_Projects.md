@@ -2,7 +2,15 @@
 
 ## Concepts
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum." [*Show the complete list*](https://github.com/saitejavanamala/Portfolio/blob/master/Tableau/Tableau_Concepts_Detailmd)
+Importance of tableau, contrsting Tableau with other platforms such as Excel, PowerBI, Sportfire
+Importing data, connecting to data sources, creating joins, joining fields with inconsistent names
+Cleaning up the data with Data Interpreter
+Converting Dimensions to Measures and the other way around
+Ctrl Key + Variables with Show Me for checking possible visualizations
+Changing the order of Visualizations: Rows, Columns, Reorder in the same shelf
+
+
+
 
 
 
