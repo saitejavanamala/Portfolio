@@ -190,7 +190,7 @@ Can you display the result from the below table TestTable based on the criteria 
 111. What are aggregate functions?
 111. Explain Grouping with Group By. 
 111. Explain the process flow of WHERE, HAVING, GROUP BY.
-
+111. Give a list of all function types and explain each function from each type.
 
 
 
