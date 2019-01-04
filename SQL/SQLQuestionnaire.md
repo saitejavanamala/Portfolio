@@ -12,7 +12,7 @@
 12. What do you mean by data integrity? 
 13. What is the difference between clustered and non clustered index in SQL?
 14. Write a SQL query to display the current date?
-15. List the different type of joins?
+15. List the different type of joins? And give examples with two test tables
 16. What do you mean by Denormalization?
 17. What are Entities and Relationships?
 18. What is an Index?
@@ -108,8 +108,8 @@
 69. What are string functions in SQL?
 70. What are user defined functions?
 71. What are all types of user-defined functions?
-72. What is Self-Join?
-73. What is Cross-Join?
+72. What is Self-Join? Give 2 examples.
+73. What is Cross-Join? Give 2 examples.
 75. What are all different types of collation sensitivity?
 76. How to get unique records from a table?
 77. What is the command used to fetch the first 5 characters of a string?
@@ -168,6 +168,15 @@ Can you display the result from the below table TestTable based on the criteria 
 111. What are derived table guidelines? Give 2 examples.
 111. What are common table expressions? Give 2 examples.
 111. What are CTEs Recursion?
+111. Write about ORDER BY Clause. What are the two main important yet subtle points?
+111. How do you limit sorted results in SQL?
+111. How do you page through reults in ORDER BY?
+111. What are the predicated used in the WHERE clause?
+111. What is GROUPING SETS? Write down it's syntax and explain with an example.
+111. Explain ROLLUP and CUBE with an example. 
+111. How to Identify Grouping in results in SQL?
+111. How do you pivot data in SQL? Give an example.
+111. How do you unpivot data in SQL? Give an example.
 
 
 
