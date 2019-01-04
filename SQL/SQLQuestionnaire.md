@@ -132,7 +132,7 @@ Can you display the result from the below table TestTable based on the criteria 
 98. What will be the result of the query below? select case when null = null then 'True' else 'False' end as Result;
 99. What will be the result of the query below? 
 100. How do you update F as M and M as F from the below table TestTable? 
-101. Describe SQL comments?
+101. Describe SQL?
 102. What is the difference between NVL function, IFNULL function, and ISNULL function?
 103. What is Database Testing?
 104. What are UNION queries? Give at least 2 examples.
@@ -177,6 +177,23 @@ Can you display the result from the below table TestTable based on the criteria 
 111. How to Identify Grouping in results in SQL?
 111. How do you pivot data in SQL? Give an example.
 111. How do you unpivot data in SQL? Give an example.
+111. Describe Batches in SQL.
+111. What are variables in SQL?
+111. What is Conditional Branching?
+111. How do you perform looping in SQL?
+111. Write a stored procedure and execute it
+111. Explain scalar functions in SQL.
+111. What are Built-in functions in SQL.
+111. What are the Logical functions in SQL?
+111. What is a window function?
+111. Explain the types of Ranking functions with examples.
+111. What are aggregate functions?
+111. Explain Grouping with Group By. 
+111. Explain the process flow of WHERE, HAVING, GROUP BY.
+
+
+
+
 
 
 
