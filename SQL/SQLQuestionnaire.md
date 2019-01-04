@@ -135,3 +135,57 @@ Can you display the result from the below table TestTable based on the criteria 
 101. Describe SQL comments?
 102. What is the difference between NVL function, IFNULL function, and ISNULL function?
 103. What is Database Testing?
+104. What are UNION queries? Give at least 2 examples.
+105. What are UNION ALL queries? How do you contrast with UNION queries. Give at least 2 examples.
+106. Draw Venn Diagrams for UNION, INTERSECT and EXCEPT.
+107. What are the guidelines for UNION operator?
+108. What are Intersect Queries? Give at least 2 examples.
+109. What are Except queries? Give at least 2 examples.
+110. What are the different syntax of subqueries? 
+111. What is a correlated subquery? Give one example.
+111. What is a self- contained subquery?
+111. What are the properties of a correlated subquery?
+111. What is an APPLY operator?
+111. How is an APPLY operator different from a Join?
+111. What are the types of APPLY operator? Explain with an example for each type in detail.
+111. What is Cross Apply?
+111. What is Outer Apply?
+111. SQL is ____________ not ____________.
+111. What are entities in SQL?
+111. What is a schema?
+111. What is a syntax for fully -qualified name?
+111. What is the SQL processing order of a query?
+111. What are the different data types in SQL? 
+111. What is an Implicit conversion? Give at least 2 examples.
+111. What is an Explicit conversion? 
+111. List out and explain the conversion functions in SQL
+111. Explain COALESCE with an example
+111. Describe ANSI behavior of NULLs
+111. State and explain the 3 important NULL functions
+111. What are Table Variables? Give 2 examples.
+111. What are table valued functions? Give 2 examples.
+111. What are derived tables? Give 2 examples.
+111. What are derived table guidelines? Give 2 examples.
+111. What are common table expressions? Give 2 examples.
+111. What are CTEs Recursion?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
