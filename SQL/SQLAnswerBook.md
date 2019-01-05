@@ -153,7 +153,10 @@ Can you display the result from the below table TestTable based on the criteria 
 104. What are UNION queries? Give at least 2 examples.
 105. What are UNION ALL queries? How do you contrast with UNION queries. Give at least 2 examples.
 106. Draw Venn Diagrams for UNION, INTERSECT and EXCEPT.
+* A U B, A ^ B, A - B
+
 107. What are the guidelines for UNION operator?
+* Combines the results of two or more queries into a single result set that includes all the rows that belong to all queries in the union.
 
 108. What are Intersect Queries? Give at least 2 examples.
 * INTERSECT returns distinct rows that are output by both the left and right input queries operator.
@@ -163,10 +166,17 @@ Can you display the result from the below table TestTable based on the criteria 
 
 110. What are the different syntax of subqueries? 
 111. What is a correlated subquery? Give one example.
-111. What is a self- contained subquery?
+111. What is a self-contained subquery?
 111. What are the properties of a correlated subquery?
-111. What is an APPLY operator?
+
+
+111. What is an APPLY operator? Give one example.
+* Both the left and right operands of the APPLY operator are table expressions. The main difference between these operands is that the right_table_source can use a table-valued function that takes a column from the left_table_source as one of the arguments of the function. The left_table_source can include table-valued functions, but it cannot contain arguments that are columns from the right_table_source.
+
 111. How is an APPLY operator different from a Join?
+* Cross Apply is equivalent to INNER JOIN. 
+* 
+
 111. What are the types of APPLY operator? Explain with an example for each type in detail.
 111. What is Cross Apply?
 111. What is Outer Apply?
