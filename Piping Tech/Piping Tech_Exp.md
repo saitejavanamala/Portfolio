@@ -18,7 +18,7 @@ Piping Technology and Products is a pipe supports manufacturing company based in
 
 * Implemented Lean Six Sigma techniques (fish-bone diagram, pareto analysis, 5S, 5 WHYS) and utilized Companion by Minitab to create graphs and forms.
 
-[5S](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/5S.PNG)
+![5S](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/5S.PNG)
 #### ![A sample fishbone diagram to pinpoint major issues and to come up with solutions](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/Fishbone.PNG)
 
 * Created project presentations using Microsoft PowerPoint and Microsoft Visio for proposals and meetings
