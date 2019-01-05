@@ -1,3 +1,7 @@
+1. What do you know in SQL?
+1. Tell me how you use SQL at your company? What are the queries you wrote? 
+1. Tell me how you used SQL at UH Energy?
+1. Why can't you use Excel instead of SQL? Is there a difference?
 1. What is the difference between DELETE and TRUNCATE statements?
 2. What are the different subsets of SQL?
 3. What do you mean by DBMS? What are its different types?
