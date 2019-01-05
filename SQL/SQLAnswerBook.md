@@ -1,18 +1,18 @@
 1. What do you know in SQL?
 * 
 
-1. Tell me how you use SQL at your company? What are the queries you wrote? 
+2. Tell me how you use SQL at your company? What are the queries you wrote? 
 * 
 
-1. Tell me how you used SQL at UH Energy?
+3. Tell me how you used SQL at UH Energy?
 * 
 
 
-1. Why can't you use Excel instead of SQL? Is there a difference?
+4. Why can't you use Excel instead of SQL? Is there a difference?
 * Excel: accidental changes, hard to replicate, slow, cumbersome to share
 
-1. What is the difference between DELETE and TRUNCATE statements?
-* 
+5. What is the difference between DELETE and TRUNCATE statements?
+* De
 
 2. What are the different subsets of SQL?
 3. What do you mean by DBMS? What are its different types?
@@ -154,8 +154,13 @@ Can you display the result from the below table TestTable based on the criteria 
 105. What are UNION ALL queries? How do you contrast with UNION queries. Give at least 2 examples.
 106. Draw Venn Diagrams for UNION, INTERSECT and EXCEPT.
 107. What are the guidelines for UNION operator?
+
 108. What are Intersect Queries? Give at least 2 examples.
+* INTERSECT returns distinct rows that are output by both the left and right input queries operator.
+
 109. What are Except queries? Give at least 2 examples.
+* EXCEPT returns distinct rows from the left input query that aren't output by the right input query.
+
 110. What are the different syntax of subqueries? 
 111. What is a correlated subquery? Give one example.
 111. What is a self- contained subquery?
@@ -166,6 +171,8 @@ Can you display the result from the below table TestTable based on the criteria 
 111. What is Cross Apply?
 111. What is Outer Apply?
 111. SQL is ____________ not ____________.
+* Declarative, not procedural. 
+
 111. What are entities in SQL?
 111. What is a schema?
 111. What is a syntax for fully -qualified name?
