@@ -29,3 +29,6 @@ Piping Technology and Products is a pipe supports manufacturing company based in
 
 * Utilized company's Enterprise Resource Management (ERP) system, Bill of Materials (BOM), AutoCAD drawings, for data mining and decision-making. 
 
+* Performing Exploratory Data Analysis using SQL and R to increase Customer Satisfaction metrics by reducing causal factors responsible for order delays. 
+
+
