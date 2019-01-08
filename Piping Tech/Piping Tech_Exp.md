@@ -10,7 +10,7 @@ __Problem Statement__: As of today, xyz Pallets full of unidentified items worth
 
 __Mission Statement__ : The aim of this project is to find numerous solutions to make the inventory and shipping floor efficient by installing racks, identifying material, hiring people, and standardizing material and information flows. These solutions will aid in transforming the company into a lean and profitable enterprise. 
 
-* I, along with my team of three identified the 8 wastes of lean, implemented 5S for better organization of Work in progress inventory, came up with metrics such as Internal customer satisfaction metric, location accuracy, etc.  I came up with a proposal for layout, standard operating procedures for workflow, then discussed with my supervisor and the VP for the feasibility of the solutions. 
+I, along with my team of three identified the 8 wastes of lean, implemented 5S for better organization of Work in progress inventory, came up with metrics such as Internal customer satisfaction metric, location accuracy, etc.  I came up with a proposal for layout, standard operating procedures for workflow, then discussed with my supervisor and the VP for the feasibility of the solutions. 
 
 __Data Analysis__: I used Excel for sorting and filtering by customer name, using pivot tables to count items and parts, to build a list of unique Items, unique figure lists, then condition statements such as IF for creating process maps. etc. 
 
