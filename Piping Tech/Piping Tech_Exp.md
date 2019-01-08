@@ -2,7 +2,7 @@
 Piping Technology and Products manufactures pipe supports, expansion joints, pre-insulated pipe supports, and miscellaneous fabrication and is based in Houston, Texas. We manufacture about 11 categories and 30 sub categories of products used in power plants, process plants, LNG, mining, healthcare, etc. I am working with the Company as an Industrial Engineer in the Assembly department. My work involves integration of three major areas: Data Analysis, Lean thinking and Project Management. 
 
 ## Activities
-For the first three months I worked in the Shipping Departmentto optimize and continuously improve the downstream processes such as Galvanizing, Inventory and Shipping:
+For the first three months I worked in the Shipping Department to optimize and continuously improve the downstream processes such as Galvanizing, Inventory and Shipping:
 
 
 ### Project Galv
