@@ -30,8 +30,8 @@ Then, in the middle of the project, I was asked to moved to a new department as 
 
 Pivot tables - 
 
-* For grouping items by assembly type to reduce confusion and over thinking.
-* For purchasing so and so grade material for the project.
+1. For grouping items by assembly type to reduce confusion and over thinking.
+2. For purchasing so and so grade material for the project.
 
 
 * Generated summary statistics and production reports using Tableau and R (tidyr, ggplot2).
