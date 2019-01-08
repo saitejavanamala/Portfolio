@@ -5,7 +5,7 @@ Piping Technology and Products manufactures pipe supports, expansion joints, pre
 For the first three months I worked in the Shipping Departmentto optimize and continuously improve the downstream processes such as Galvanizing, Inventory and Shipping:
 
 
-#### Project Galv
+### Project Galv
 __Problem Statement__: As of today, xyz Pallets full of unidentified items worth of more than xyz pounds is lying on the shipping floor, in the galv area, out in the dump, and in ex rod assembly area. This is due to not identifying, misidentifying and not keeping a track of material.  Also, searching and finding, searching and never finding and therefore re-cutting has become a job function for every floor worker, supervisor and every engineer. 
 
 __Mission Statement__ : The aim of this project is to find numerous solutions to make the inventory and shipping floor efficient by installing racks, identifying material, hiring people, and standardizing material and information flows. These solutions will aid in transforming the company into a lean and profitable enterprise. 
