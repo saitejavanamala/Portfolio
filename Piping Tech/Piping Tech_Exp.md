@@ -12,7 +12,7 @@ __Mission Statement__ : The aim of this project is to find numerous solutions to
 
 I, along with my team of three identified the 8 wastes of lean, implemented 5S for better organization of Work in progress inventory, came up with metrics such as Internal customer satisfaction metric, location accuracy, etc.  I came up with a proposal for layout, standard operating procedures for workflow, then discussed with my supervisor and the VP for the feasibility of the solutions. 
 
-__Data Analysis__: I used Excel for sorting and filtering by customer name, using pivot tables to count items and parts, to build a list of unique Items, unique figure lists, then condition statements such as IF for creating process maps. etc. 
+__Data Analysis__: I used Excel for sorting and filtering by customer name, using pivot tables to count items and parts, to build a list of unique Items, unique figure lists, then condition statements such as IF for creating process maps. etc. I used drop down lists for data validation, then formulae such as vlookup, concatenation, transpose, string functions, etc. 
 
 __Team Lead__ - Material Identification Task Force
 
@@ -21,6 +21,9 @@ Me and 7 other engineers work on Identifying material and collect data and assig
 * Decreased Average Material Identification Time metric by aprox. 60% (11 minutes to 4.5 minutes) by utilizing MS SQL Server for writing SQL queries (Joins, Subqueries, Union, Intersect) leading to 20% increase in Daily Average Production metric. 
 
 ![Results](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/MatIdTime.png)
+
+Then, in the middle of the project, I was asked to moved to a new department as a Project Engineer if you like to schedule, manage and increase the production metric of Rod Assembly. 
+
 
 * Increased Daily Average Production by 46% (1500 lbs to 2200 lbs) through exploratory data analysis using Advanced Excel (Pivot tables, VBA Macros, Power query, Data modeling, VLOOKUP, HLOOKUP) and R programming (dplyr, ggplot2, tidyr, readr).
 
