@@ -28,6 +28,12 @@ Then, in the middle of the project, I was asked to moved to a new department as 
 * Increased Daily Average Production by 46% (1500 lbs to 2200 lbs) through exploratory data analysis using Advanced Excel (Pivot tables, VBA Macros, Power query, Data modeling, VLOOKUP, HLOOKUP) and R programming (dplyr, ggplot2, tidyr, readr).
 
 
+Pivot tables - 
+
+* For grouping items by assembly type to reduce confusion and over thinking.
+* For purchasing so and so grade material for the project.
+
+
 * Generated summary statistics and production reports using Tableau and R (tidyr, ggplot2).
 
 
