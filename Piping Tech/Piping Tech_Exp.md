@@ -22,7 +22,7 @@ Me and 7 other engineers work on Identifying material and collect data and assig
 
 ![Results](https://github.com/saitejavanamala/Portfolio/blob/master/Piping%20Tech/MatIdTime.png)
 
-Then, in the middle of the project, I was asked to moved to a new department as a Project Engineer if you like to schedule, manage and increase the production metric of Bechtel Assembly. 
+Then, in the middle of the project, I was asked to moved to a new department as a Project Engineer if you like to schedule, manage and increase the production metric of Assembly. 
 
 
 * Increased Daily Average Production by 46% (1500 lbs to 2200 lbs) through exploratory data analysis using Advanced Excel (Pivot tables, VBA Macros, Power query, Data modeling, VLOOKUP, HLOOKUP) and R programming (dplyr, ggplot2, tidyr, readr).
