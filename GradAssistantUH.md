@@ -18,6 +18,7 @@ These are the following activities I took part in at UH Energy:
 
 ![Downstream Resilience Certificate]()
 
+![Downstream Resilience Slides]()
 
 
 2. Renewable Energy Video Competition
