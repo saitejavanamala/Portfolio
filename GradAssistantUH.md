@@ -10,6 +10,24 @@ These are the following activities I took part in at UH Energy:
 ## Activities
 1. Team Leader - Downstream Resilience Project
 
+* Introduction
+The goal of the project was to arrive at a digitization solution for handling disruptions and increasing throughput in an LNG facility during the times of adverse weather conditions. For example, "You have a facility: a refinery, a powerplant, something like that. And as weather changes, it'll become prone to lowered production/shutdowns which ultimately affects the customer satisfaction and also the profitability. Now, during these adverse weather conditions, we ask the question: How can data help us keep the performance of the plant unchanged and thereby meet production goals?
+
+* Problems
+Shutdown, Delays
+Production Inefficiencies
+
+* Analysis
+Choosing of the project: A liquefied natural gas (LNG) facility on an annual basis has downtime that costs USD150mil on average. We have been working on availability tools as well as software that enables us to improve the uptime, reliability, availability and reduce that cost."
+
+
+* Solutions
+What we have done is make all the equipment smart by adding sensors, and created Predix, an OS platform for the industrial well. With Predix, we are able to gather all these information and sort it in a meaningful fashion where we then run algorithms that improve the efficiency, uptime, reliability of the equipment,” he said.
+
+
+* Results
+https://sloanreview.mit.edu/case-study/ge-big-bet-on-data-and-analytics/
+
 
 
 ![Downstream Resilience Tableau report]()
